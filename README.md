@@ -78,7 +78,7 @@ A prototype of a curated list of awesome data sources, models, tools and organiz
 
 ##### Ice Flow and Mass Balance
 
-* [Elmer/Ice](https://github.com/elmercsc/elmerfem) ⭐ 1,661 | 🐛 69 | 🌐 Fortran | 📅 2026-08-12 - Open Source Finite Element Software for Ice Sheet, Glaciers and Ice Flow Modelling
+* [Elmer/Ice](https://github.com/elmercsc/elmerfem) ⭐ 1,662 | 🐛 70 | 🌐 Fortran | 📅 2026-08-13 - Open Source Finite Element Software for Ice Sheet, Glaciers and Ice Flow Modelling
 * [icepack](https://github.com/icepack/icepack) ⭐ 100 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2026-05-01 - Finite element modeling of glaciers and ice sheets
 * [PyGEM](https://github.com/drounce/PyGEM) ⭐ 67 | 🐛 14 | 🌐 Python | 📅 2026-05-21 - Python Glacier Evolution Model (PyGEM)
 * [ALPGM](https://github.com/JordiBolibar/ALPGM) ⭐ 45 | 🐛 3 | 🌐 Python | 📅 2024-11-06 - ALpine Parameterized Glacier Model. Deep learning-based regional glacier evolution model ([p](https://tc.copernicus.org/articles/14/565/2020/tc-14-565-2020.html))
