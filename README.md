@@ -42,14 +42,14 @@ A prototype of a curated list of awesome data sources, models, tools and organiz
 
 ### Cryo Software
 
-* [xDEM](https://github.com/GlacioHack/xdem) ⭐ 215 | 🐛 156 | 🌐 Python | 📅 2026-08-06 - A Python module developed by glaciologists for handling DEMs: read/write, coregistration, volume change calculation etc.
+* [xDEM](https://github.com/GlacioHack/xdem) ⭐ 215 | 🐛 155 | 🌐 Python | 📅 2026-08-06 - A Python module developed by glaciologists for handling DEMs: read/write, coregistration, volume change calculation etc.
 * [earthspy](https://github.com/AdrienWehrle/earthspy) ⭐ 72 | 🐛 9 | 🌐 Python | 📅 2026-07-20 - Monitor and study any place on Earth and in Near Real-Time (NRT) with satellite data
 * [PolarToolkit](https://polartoolkit.rtfd.io/) - A Python package to download, plot, and explore polar datasets.
 
 ### Cryo Data
 
 * [NSIDC](https://nsidc.org/) - The (US) National Snow and Ice Data Center
-* [NSIDC Data Tutorials](https://github.com/nsidc/NSIDC-Data-Tutorials) ⭐ 102 | 🐛 17 | 🌐 Jupyter Notebook | 📅 2026-06-24 - Jupyter notebook guides to access, subset, transform, and visualize data products from NSIDC
+* [NSIDC Data Tutorials](https://github.com/nsidc/NSIDC-Data-Tutorials) ⭐ 102 | 🐛 17 | 🌐 Jupyter Notebook | 📅 2026-08-13 - Jupyter notebook guides to access, subset, transform, and visualize data products from NSIDC
 * [Arctic Data Center](https://arcticdata.io) - Data and software from NSF Arctic research
 
 ## Frozen Ground/Permafrost
@@ -78,7 +78,7 @@ A prototype of a curated list of awesome data sources, models, tools and organiz
 
 ##### Ice Flow and Mass Balance
 
-* [Elmer/Ice](https://github.com/elmercsc/elmerfem) ⭐ 1,662 | 🐛 70 | 🌐 Fortran | 📅 2026-08-13 - Open Source Finite Element Software for Ice Sheet, Glaciers and Ice Flow Modelling
+* [Elmer/Ice](https://github.com/elmercsc/elmerfem) ⭐ 1,662 | 🐛 69 | 🌐 Fortran | 📅 2026-08-14 - Open Source Finite Element Software for Ice Sheet, Glaciers and Ice Flow Modelling
 * [icepack](https://github.com/icepack/icepack) ⭐ 100 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2026-05-01 - Finite element modeling of glaciers and ice sheets
 * [PyGEM](https://github.com/drounce/PyGEM) ⭐ 67 | 🐛 14 | 🌐 Python | 📅 2026-05-21 - Python Glacier Evolution Model (PyGEM)
 * [ALPGM](https://github.com/JordiBolibar/ALPGM) ⭐ 45 | 🐛 3 | 🌐 Python | 📅 2024-11-06 - ALpine Parameterized Glacier Model. Deep learning-based regional glacier evolution model ([p](https://tc.copernicus.org/articles/14/565/2020/tc-14-565-2020.html))
@@ -200,7 +200,7 @@ A prototype of a curated list of awesome data sources, models, tools and organiz
 
 ### ISG Educational Tools and Data
 
-* [Glacier & Ice Sheet Dynamics at Georgia Tech](https://github.com/nsidc/NSIDC-Data-Tutorials) ⭐ 102 | 🐛 17 | 🌐 Jupyter Notebook | 📅 2026-06-24 - Alex Robel's slides, notes, and code demonstrations for grad/undergrad course in glaciology
+* [Glacier & Ice Sheet Dynamics at Georgia Tech](https://github.com/nsidc/NSIDC-Data-Tutorials) ⭐ 102 | 🐛 17 | 🌐 Jupyter Notebook | 📅 2026-08-13 - Alex Robel's slides, notes, and code demonstrations for grad/undergrad course in glaciology
 * [glacier-graphics](https://github.com/OGGM/glacier-graphics) ⭐ 14 | 🐛 1 | 📅 2022-01-20 - A collection of glacier graphics that can be used for education and outreach
 * [Ed Bueler's Karthaus material](https://github.com/bueler/karthaus) ⭐ 7 | 🐛 0 | 🌐 TeX | 📅 2019-04-01 - Notes and codes for Ed Bueler's numerical lectures at Karthaus (Italy) Summer School on Ice Sheets and Glaciers
 * [js-ism](https://github.com/mewo2/js-ism) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2016-02-15 - Reimplementation of GRANTISM in Javascript
@@ -222,7 +222,7 @@ A prototype of a curated list of awesome data sources, models, tools and organiz
 ### SI Software
 
 * [IceNet](https://github.com/tom-andersson/icenet-paper) ⭐ 106 | 🐛 1 | 🌐 Python | 📅 2023-10-10 - code to train a deep learning seasonal Arctic sea ice forecasting model ([paper](https://www.nature.com/articles/s41467-021-25257-4)/[pre-trained networks](https://ramadda.data.bas.ac.uk/repository/entry/show?entryid=71820e7d-c628-4e32-969f-464b7efb187c)/[Jupyter notebook demonstrator](https://the-environmental-ds-book.netlify.app/polar/modelling/polar-modelling-icenet.html))
-* [CICE](https://github.com/CICE-Consortium/CICE) ⭐ 77 | 🐛 99 | 🌐 Fortran | 📅 2026-07-20 - CICE sea-ice model
+* [CICE](https://github.com/CICE-Consortium/CICE) ⭐ 77 | 🐛 98 | 🌐 Fortran | 📅 2026-08-14 - CICE sea-ice model
 * [Icepack](https://github.com/CICE-Consortium/Icepack) ⭐ 37 | 🐛 28 | 🌐 Fortran | 📅 2026-07-28 - sea-ice column physics
 * [SIS2](https://github.com/NOAA-GFDL/SIS2) ⭐ 16 | 🐛 16 | 🌐 Fortran | 📅 2026-07-27 - NOAA-GFDL's Sea Ice Simulator version 2
 * [SI3](https://forge.ipsl.jussieu.fr/nemo/chrome/site/doc/NEMO/guide/html/guide.html) - sea ice model of the NEMO consortium
@@ -265,4 +265,4 @@ Thanks for your suggestions!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._

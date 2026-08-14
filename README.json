@@ -75,7 +75,7 @@
           "repo_info": {
             "archived": false,
             "language": "Fortran",
-            "last_commit": "2026-08-13T12:20:09Z",
+            "last_commit": "2026-08-14T15:08:28Z",
             "owner": "ElmerCSC",
             "repo": "elmerfem",
             "stars": 1662
@@ -628,7 +628,7 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-06-24T17:39:00Z",
+            "last_commit": "2026-08-13T21:04:06Z",
             "owner": "nsidc",
             "repo": "NSIDC-Data-Tutorials",
             "stars": 102
@@ -786,7 +786,7 @@
           "repo_info": {
             "archived": false,
             "language": "Fortran",
-            "last_commit": "2026-07-20T18:26:55Z",
+            "last_commit": "2026-08-14T06:23:38Z",
             "owner": "CICE-Consortium",
             "repo": "CICE",
             "stars": 77
@@ -944,7 +944,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T16:23:27.642Z",
+    "last_updated": "2026-08-14T16:13:44.088Z",
     "original_repository": "awesome-cryosphere/cryosphere-links",
     "original_repository_sha": "1784d1d685c29d53dd26d6fb4d6be4aafdae6035",
     "enhanced_repository": "enhansome/enhansome-cryosphere-links",
