@@ -75,10 +75,10 @@
           "repo_info": {
             "archived": false,
             "language": "Fortran",
-            "last_commit": "2026-08-17T13:51:00Z",
+            "last_commit": "2026-08-18T14:42:26Z",
             "owner": "ElmerCSC",
             "repo": "elmerfem",
-            "stars": 1666
+            "stars": 1667
           }
         },
         {
@@ -92,7 +92,7 @@
             "last_commit": "2026-05-01T20:48:55Z",
             "owner": "icepack",
             "repo": "icepack",
-            "stars": 100
+            "stars": 101
           }
         },
         {
@@ -145,7 +145,7 @@
           "repo_info": {
             "archived": false,
             "language": "MATLAB",
-            "last_commit": "2026-08-17T12:56:17Z",
+            "last_commit": "2026-08-18T15:39:35Z",
             "owner": "GHilmarG",
             "repo": "UaSource",
             "stars": 25
@@ -628,10 +628,10 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-13T21:04:06Z",
+            "last_commit": "2026-08-17T23:31:15Z",
             "owner": "nsidc",
             "repo": "NSIDC-Data-Tutorials",
-            "stars": 102
+            "stars": 103
           }
         },
         {
@@ -800,7 +800,7 @@
           "repo_info": {
             "archived": false,
             "language": "Fortran",
-            "last_commit": "2026-07-28T15:32:49Z",
+            "last_commit": "2026-08-17T19:34:16Z",
             "owner": "CICE-Consortium",
             "repo": "Icepack",
             "stars": 37
@@ -844,7 +844,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T16:54:51Z",
+            "last_commit": "2026-08-17T21:03:32Z",
             "owner": "smrt-model",
             "repo": "smrt",
             "stars": 70
@@ -944,7 +944,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T15:49:39.719Z",
+    "last_updated": "2026-08-18T15:56:04.046Z",
     "original_repository": "awesome-cryosphere/cryosphere-links",
     "original_repository_sha": "1784d1d685c29d53dd26d6fb4d6be4aafdae6035",
     "enhanced_repository": "enhansome/enhansome-cryosphere-links",
