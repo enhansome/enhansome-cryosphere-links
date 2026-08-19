@@ -78,7 +78,7 @@ A prototype of a curated list of awesome data sources, models, tools and organiz
 
 ##### Ice Flow and Mass Balance
 
-* [Elmer/Ice](https://github.com/elmercsc/elmerfem) ⭐ 1,667 | 🐛 70 | 🌐 Fortran | 📅 2026-08-19 - Open Source Finite Element Software for Ice Sheet, Glaciers and Ice Flow Modelling
+* [Elmer/Ice](https://github.com/elmercsc/elmerfem) ⭐ 1,667 | 🐛 71 | 🌐 Fortran | 📅 2026-08-19 - Open Source Finite Element Software for Ice Sheet, Glaciers and Ice Flow Modelling
 * [icepack](https://github.com/icepack/icepack) ⭐ 101 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2026-05-01 - Finite element modeling of glaciers and ice sheets
 * [PyGEM](https://github.com/drounce/PyGEM) ⭐ 67 | 🐛 14 | 🌐 Python | 📅 2026-05-21 - Python Glacier Evolution Model (PyGEM)
 * [ALPGM](https://github.com/JordiBolibar/ALPGM) ⭐ 45 | 🐛 3 | 🌐 Python | 📅 2024-11-06 - ALpine Parameterized Glacier Model. Deep learning-based regional glacier evolution model ([p](https://tc.copernicus.org/articles/14/565/2020/tc-14-565-2020.html))
@@ -173,7 +173,7 @@ A prototype of a curated list of awesome data sources, models, tools and organiz
 
 #### ISG Remote Sensing Software
 
-* [icepyx](https://github.com/icesat2py/icepyx) ⭐ 258 | 🐛 114 | 🌐 Python | 📅 2026-08-17 - Python tools for obtaining and working with ICESat-2 laser altimetry data
+* [icepyx](https://github.com/icesat2py/icepyx) ⭐ 258 | 🐛 113 | 🌐 Python | 📅 2026-08-17 - Python tools for obtaining and working with ICESat-2 laser altimetry data
 * [DIC\_FFT](https://github.com/bickelmps/DIC_FFT_ETHZ) ⭐ 49 | 🐛 0 | 🌐 MATLAB | 📅 2026-06-02 -  Detect and quantify surface displacements in multi-temporal images ([p](https://www.mdpi.com/2072-4292/10/6/865))
 * [glaciersat](https://github.com/jlandmann/glaciersat) ⭐ 8 | 🐛 3 | 🌐 Python | 📅 2024-01-09 -  Tools to observe glaciers from satellite imagery, such as albedo calculation and transient snow line detection
 
@@ -233,7 +233,7 @@ A prototype of a curated list of awesome data sources, models, tools and organiz
 
 ### SN Software
 
-* [SMRT](https://github.com/smrt-model/smrt) ⭐ 70 | 🐛 8 | 🌐 Python | 📅 2026-08-17 - Snow Microwave Radiative Transfer model to calculate scattering of microwave radiation in snow ([p](https://doi.org/10.5194/gmd-11-2763-2018))
+* [SMRT](https://github.com/smrt-model/smrt) ⭐ 70 | 🐛 8 | 🌐 Python | 📅 2026-08-19 - Snow Microwave Radiative Transfer model to calculate scattering of microwave radiation in snow ([p](https://doi.org/10.5194/gmd-11-2763-2018))
 * [cosipy](https://github.com/cryotools/cosipy) ⭐ 62 | 🐛 38 | 🌐 Python | 📅 2026-04-29 - Coupled snowpack and ice surface energy and mass balance model in Python
 * [openAMUNDSEN](https://github.com/openamundsen/openamundsen) ⭐ 33 | 🐛 26 | 🌐 Python | 📅 2026-03-19 - Modular snow and hydroclimatological modeling framework
 * [FSM2](https://github.com/RichardEssery/FSM2) ⭐ 32 | 🐛 4 | 🌐 Fortran | 📅 2026-04-22 - Flexible Snow Model: a multi-physics energy balance model of accumulation and melt of snow on the ground and in forest canopies ([p](http://www.geosci-model-dev.net/8/3867/2015/))
