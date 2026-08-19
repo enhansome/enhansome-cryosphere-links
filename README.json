@@ -1,951 +1,980 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Cryosphere - across all subspheres"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "xDEM",
-          "description": "A Python module developed by glaciologists for handling DEMs: read/write, coregistration, volume change calculation etc.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-06T13:41:23Z",
-            "owner": "GlacioHack",
-            "repo": "xdem",
-            "stars": 215
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "earthspy",
-          "description": "Monitor and study any place on Earth and in Near Real-Time (NRT) with satellite data",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-20T07:43:09Z",
-            "owner": "wehrad",
-            "repo": "earthspy",
-            "stars": 72
-          }
-        }
-      ],
-      "title": "Cryo Software"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Frozen Ground/Permafrost"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "FGP Software"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Ice Sheets and Glaciers"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "ISG Software"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "ISG Open Source Models"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Elmer/Ice",
-          "description": "Open Source Finite Element Software for Ice Sheet, Glaciers and Ice Flow Modelling",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Fortran",
-            "last_commit": "2026-08-18T14:42:26Z",
-            "owner": "ElmerCSC",
-            "repo": "elmerfem",
-            "stars": 1667
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "icepack",
-          "description": "Finite element modeling of glaciers and ice sheets",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2026-05-01T20:48:55Z",
-            "owner": "icepack",
-            "repo": "icepack",
-            "stars": 101
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PyGEM",
-          "description": "Python Glacier Evolution Model (PyGEM)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-05-21T10:34:27Z",
-            "owner": "PyGEM-Community",
-            "repo": "PyGEM",
-            "stars": 67
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ALPGM",
-          "description": "ALpine Parameterized Glacier Model. Deep learning-based regional glacier evolution model (p)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-11-06T08:58:56Z",
-            "owner": "JordiBolibar",
-            "repo": "ALPGM",
-            "stars": 45
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CFM",
-          "description": "Community Firn Model (p)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-12-23T20:10:41Z",
-            "owner": "UWGlaciology",
-            "repo": "CommunityFirnModel",
-            "stars": 38
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Úa",
-          "description": "A large-scale ice-flow model",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "MATLAB",
-            "last_commit": "2026-08-18T15:39:35Z",
-            "owner": "GHilmarG",
-            "repo": "UaSource",
-            "stars": 25
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CISM",
-          "description": "Community Ice Sheet Model (p)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Fortran",
-            "last_commit": "2018-07-08T17:30:29Z",
-            "owner": "CISM",
-            "repo": "cism",
-            "stars": 22
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "glacier-flow-model",
-          "description": "Modelling glacier flow, based on the glaciers mass balance and a digital elevation model",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-12-06T02:05:37Z",
-            "owner": "munterfi",
-            "repo": "glacier-flow-model",
-            "stars": 22
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Yelmo",
-          "description": "a 3D ice-sheet-shelf model solving for the coupled dynamics and thermodynamics of the ice sheet system (p)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Fortran",
-            "last_commit": "2026-05-17T05:52:24Z",
-            "owner": "palma-ice",
-            "repo": "yelmo",
-            "stars": 20
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ICESHEET",
-          "description": "Creates ice sheet reconstructions using a perfectly plastic approximation, using ice margins and basal shear stress as inputs",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Roff",
-            "last_commit": "2022-06-23T08:21:53Z",
-            "owner": "evangowan",
-            "repo": "icesheet",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "icetools",
-          "description": "icetools provides a development environment for numerical ice flow models/simulations",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2019-05-23T06:42:56Z",
-            "owner": "alexjarosch",
-            "repo": "icetools",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "sia-fluxlim",
-          "description": "Implementation of a MUSCL-superbee flux limiter to a shallow ice approximation flow code based on finite differences",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2019-11-09T10:48:37Z",
-            "owner": "alexjarosch",
-            "repo": "sia-fluxlim",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Fenics Ice",
-          "description": "Ice Sheet model with Bayesian Uncertainty Quantification (p).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-01-08T18:01:11Z",
-            "owner": "EdiGlacUQ",
-            "repo": "fenics_ice",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "flowline-glacier-model",
-          "description": "Flowline glacier model by Andy Aschwanden",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-06-14T16:58:45Z",
-            "owner": "aaschwanden",
-            "repo": "flowline-glacier-model",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "VarGlaS",
-          "description": "The source code repository for the Variational Glacier Simulator (VarGlaS) code (p)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2016-01-23T20:26:45Z",
-            "owner": "douglas-brinkerhoff",
-            "repo": "VarGlaS",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DEISM ice-sheet-model",
-          "description": "DEpth integrated Ice Sheet Model (DEISM)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "MATLAB",
-            "last_commit": "2019-02-19T02:47:50Z",
-            "owner": "cpk26",
-            "repo": "ice-sheet-model",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "speceis_flowline",
-          "description": "Width-parameterized flowline version of the spectral ice sheet model (SpecEIS)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2019-08-12T23:48:59Z",
-            "owner": "douglas-brinkerhoff",
-            "repo": "speceis_flowline",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MPAS-Albany Land Ice (MALI)",
-          "description": "a variable-resolution ice sheet model for earth system modeling using voronoi grids",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "UFEMISM",
-          "description": "The Utrecht FinitE voluMe Ice-Sheet Model (p)",
-          "children": []
-        }
-      ],
-      "title": "Ice Flow and Mass Balance"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "COSIPY",
-          "description": "A flexible and user-friendly framework for modeling distributed snow and glacier mass changes (p)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-29T19:54:59Z",
-            "owner": "cryotools",
-            "repo": "cosipy",
-            "stars": 62
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pypdd",
-          "description": "A positive degree day model for glacier surface mass balance (p)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-05-02T13:39:27Z",
-            "owner": "juseg",
-            "repo": "pypdd",
-            "stars": 20
-          }
-        }
-      ],
-      "title": "(Surface) Mass Balance only"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "HiDEM",
-          "description": "Helsinki Discrete Element Model, a particle model for simulating elastic behaviour, fracture and calving at marine terminating glaciers (p)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2023-04-20T12:18:51Z",
-            "owner": "joeatodd",
-            "repo": "HiDEM",
-            "stars": 26
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cryo_calving_2019",
-          "description": "Experiments with a minimal Frontal ablation model added to OGGM",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2019-09-12T08:14:44Z",
-            "owner": "bearecinos",
-            "repo": "cryo_calving_2019",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SERMeQ",
-          "description": "Tool to estimate advance, retreat, and sea level contribution of calving glaciers forced by upstream surface mass balance, based on viscoplastic physics (p)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-10-16T17:17:19Z",
-            "owner": "ehultee",
-            "repo": "SERMeQ",
-            "stars": 3
-          }
-        }
-      ],
-      "title": "Calving/Frontal Ablation"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "DEBAM/DETIM",
-          "description": "Distributed Energy Balance Model (DEBAM) and Distributed Enhanced Temperature Index Model (DETIM): Two Distributed Glacier Surface Mass-Balance and Discharge Models (p, p)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2020-06-02T04:30:06Z",
-            "owner": "regine",
-            "repo": "meltmodel",
-            "stars": 23
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CCHF",
-          "description": "Cryosphere hydrology modeling package written in Matlab (p)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "MATLAB",
-            "last_commit": "2020-07-30T01:03:54Z",
-            "owner": "thomasmosier",
-            "repo": "CCHF",
-            "stars": 3
-          }
-        }
-      ],
-      "title": "Hydrology"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "SELEN",
-          "description": "Calculates glacial isostatic adjustment and the sea level equation",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Fortran",
-            "last_commit": "2023-06-28T07:39:59Z",
-            "owner": "geodynamics",
-            "repo": "selen",
-            "stars": 29
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "debadvect",
-          "description": "FEM model for englacial debris transport",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2019-03-06T15:13:37Z",
-            "owner": "awirbel",
-            "repo": "debadvect",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "GlacialLakeHazards",
-          "description": "Matlab codes from PhD work on glacial lake outburst flood hazards in the Nepal Himalaya",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "MATLAB",
-            "last_commit": "2020-04-24T11:42:57Z",
-            "owner": "drounce",
-            "repo": "GlacialLakeHazards",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Rounce2014_debristhickness",
-          "description": "Codes associated with deriving the debris thickness of debris-covered glaciers from Landsat thermal imagery",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Matlab",
-            "last_commit": "2018-02-05T19:15:01Z",
-            "owner": "drounce",
-            "repo": "Rounce2014_debristhickness",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "sia-fve",
-          "description": "implicit finite volume element (FVE) method for the shallow ice approximation (SIA) free-boundary problem",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TeX",
-            "last_commit": "2025-05-16T03:05:32Z",
-            "owner": "bueler",
-            "repo": "sia-fve",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Glacier initialization",
-          "description": "Method to reconstruct estimated glacier states up to 1850",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-08-17T07:57:12Z",
-            "owner": "OGGM",
-            "repo": "initialization",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "bod-marine",
-          "description": "exact solution to marine ice sheet 1D problem, coming from Bodvardsson (1955)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TeX",
-            "last_commit": "2017-01-02T06:34:24Z",
-            "owner": "bueler",
-            "repo": "bod-marine",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "icepack-py",
-          "description": "Python bindings and utility scripts for icepack",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2017-11-01T21:05:41Z",
-            "owner": "danshapero",
-            "repo": "icepack-py",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "Miscellaneous"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "ISG Closed/On-Demand Source Models"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "icepyx",
-          "description": "Python tools for obtaining and working with ICESat-2 laser altimetry data",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T00:43:03Z",
-            "owner": "icesat2py",
-            "repo": "icepyx",
-            "stars": 258
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DIC_FFT",
-          "description": "Detect and quantify surface displacements in multi-temporal images (p)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "MATLAB",
-            "last_commit": "2026-06-02T07:16:26Z",
-            "owner": "bickelmps",
-            "repo": "DIC_FFT_ETHZ",
-            "stars": 49
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "glaciersat",
-          "description": "Tools to observe glaciers from satellite imagery, such as albedo calculation and transient snow line detection",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-01-09T16:32:25Z",
-            "owner": "jlandmann",
-            "repo": "glaciersat",
-            "stars": 8
-          }
-        }
-      ],
-      "title": "ISG Remote Sensing Software"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "ISG Data"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "ISG National Data"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Glacier & Ice Sheet Dynamics at Georgia Tech",
-          "description": "Alex Robel's slides, notes, and code demonstrations for grad/undergrad course in glaciology",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2026-08-17T23:31:15Z",
-            "owner": "nsidc",
-            "repo": "NSIDC-Data-Tutorials",
-            "stars": 103
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "glacier-graphics",
-          "description": "A collection of glacier graphics that can be used for education and outreach",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2022-01-20T10:32:31Z",
-            "owner": "OGGM",
-            "repo": "glacier-graphics",
-            "stars": 14
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ed Bueler's Karthaus material",
-          "description": "Notes and codes for Ed Bueler's numerical lectures at Karthaus (Italy) Summer School on Ice Sheets and Glaciers",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TeX",
-            "last_commit": "2019-04-01T17:56:07Z",
-            "owner": "bueler",
-            "repo": "karthaus",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "js-ism",
-          "description": "Reimplementation of GRANTISM in Javascript",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2016-02-15T13:30:10Z",
-            "owner": "mewo2",
-            "repo": "js-ism",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Lindsey Nicholson's teaching",
-          "description": "Materials Lindsey developed for teaching (mainly) about glaciers",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-05-22T13:21:49Z",
-            "owner": "linznicholson",
-            "repo": "teaching",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Glaciers Dynamics Lecture",
-          "description": "Glacier Dynamics lecture by Andy Aschwanden",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2011-10-11T18:10:07Z",
-            "owner": "aaschwanden",
-            "repo": "glaciers617",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "UW_Geodetic_Mass_Budget_Scripts",
-          "description": "no description provided",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2017-09-24T15:34:25Z",
-            "owner": "ShashankBice",
-            "repo": "UW_Geodetic_Mass_Budget_Scripts",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "group",
-          "title": "International Summer School in Glaciology, McCarthy, Alaska",
-          "description": "bi-annual summer school hosted by University of Alaska in Fairbanks",
           "children": [
             {
               "node_type": "item",
-              "title": "Ed Bueler's material",
-              "description": "Slides, notes, and codes on numerical glacier and ice sheet modeling",
+              "title": "xDEM",
+              "description": "A Python module developed by glaciologists for handling DEMs: read/write, coregistration, volume change calculation etc.",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "language": "TeX",
-                "last_commit": "2026-06-15T02:28:42Z",
-                "owner": "bueler",
-                "repo": "mccarthy",
-                "stars": 21
+                "id": 312108171,
+                "language": "Python",
+                "last_commit": "2026-08-06T13:41:23Z",
+                "owner": "GlacioHack",
+                "repo": "xdem",
+                "stars": 215
               }
             },
             {
               "node_type": "item",
-              "title": "Andy Aschwanden's material",
-              "description": "Lecture notes and exercises on ice flow and thermodynamics",
+              "title": "earthspy",
+              "description": "Monitor and study any place on Earth and in Near Real-Time (NRT) with satellite data",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "language": "TeX",
-                "last_commit": "2026-06-05T22:39:51Z",
-                "owner": "aaschwanden",
-                "repo": "mccarthy-summerschool",
-                "stars": 2
+                "id": 460777031,
+                "language": "Python",
+                "last_commit": "2026-07-20T07:43:09Z",
+                "owner": "wehrad",
+                "repo": "earthspy",
+                "stars": 72
               }
             }
-          ]
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Cryo Software"
         }
       ],
-      "title": "ISG Educational Tools and Data"
+      "title": "Cryosphere - across all subspheres"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Elmer/Ice",
+                      "description": "Open Source Finite Element Software for Ice Sheet, Glaciers and Ice Flow Modelling",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 16771087,
+                        "language": "Fortran",
+                        "last_commit": "2026-08-19T11:19:44Z",
+                        "owner": "ElmerCSC",
+                        "repo": "elmerfem",
+                        "stars": 1667
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "icepack",
+                      "description": "Finite element modeling of glaciers and ice sheets",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 45697304,
+                        "language": "Jupyter Notebook",
+                        "last_commit": "2026-05-01T20:48:55Z",
+                        "owner": "icepack",
+                        "repo": "icepack",
+                        "stars": 101
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "PyGEM",
+                      "description": "Python Glacier Evolution Model (PyGEM)",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 97507939,
+                        "language": "Python",
+                        "last_commit": "2026-05-21T10:34:27Z",
+                        "owner": "PyGEM-Community",
+                        "repo": "PyGEM",
+                        "stars": 67
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "ALPGM",
+                      "description": "ALpine Parameterized Glacier Model. Deep learning-based regional glacier evolution model (p)",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 195388796,
+                        "language": "Python",
+                        "last_commit": "2024-11-06T08:58:56Z",
+                        "owner": "JordiBolibar",
+                        "repo": "ALPGM",
+                        "stars": 45
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "CFM",
+                      "description": "Community Firn Model (p)",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 14030315,
+                        "language": "Python",
+                        "last_commit": "2025-12-23T20:10:41Z",
+                        "owner": "UWGlaciology",
+                        "repo": "CommunityFirnModel",
+                        "stars": 38
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Úa",
+                      "description": "A large-scale ice-flow model",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 37473492,
+                        "language": "MATLAB",
+                        "last_commit": "2026-08-19T12:07:57Z",
+                        "owner": "GHilmarG",
+                        "repo": "UaSource",
+                        "stars": 25
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "CISM",
+                      "description": "Community Ice Sheet Model (p)",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 25616807,
+                        "language": "Fortran",
+                        "last_commit": "2018-07-08T17:30:29Z",
+                        "owner": "CISM",
+                        "repo": "cism",
+                        "stars": 22
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "glacier-flow-model",
+                      "description": "Modelling glacier flow, based on the glaciers mass balance and a digital elevation model",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 96700423,
+                        "language": "Python",
+                        "last_commit": "2025-12-06T02:05:37Z",
+                        "owner": "munterfi",
+                        "repo": "glacier-flow-model",
+                        "stars": 22
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Yelmo",
+                      "description": "a 3D ice-sheet-shelf model solving for the coupled dynamics and thermodynamics of the ice sheet system (p)",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 185207515,
+                        "language": "Fortran",
+                        "last_commit": "2026-05-17T05:52:24Z",
+                        "owner": "palma-ice",
+                        "repo": "yelmo",
+                        "stars": 20
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "ICESHEET",
+                      "description": "Creates ice sheet reconstructions using a perfectly plastic approximation, using ice margins and basal shear stress as inputs",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 72419734,
+                        "language": "Roff",
+                        "last_commit": "2022-06-23T08:21:53Z",
+                        "owner": "evangowan",
+                        "repo": "icesheet",
+                        "stars": 9
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "icetools",
+                      "description": "icetools provides a development environment for numerical ice flow models/simulations",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 172715676,
+                        "language": "Python",
+                        "last_commit": "2019-05-23T06:42:56Z",
+                        "owner": "alexjarosch",
+                        "repo": "icetools",
+                        "stars": 7
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "sia-fluxlim",
+                      "description": "Implementation of a MUSCL-superbee flux limiter to a shallow ice approximation flow code based on finite differences",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 49494493,
+                        "language": "Python",
+                        "last_commit": "2019-11-09T10:48:37Z",
+                        "owner": "alexjarosch",
+                        "repo": "sia-fluxlim",
+                        "stars": 7
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Fenics Ice",
+                      "description": "Ice Sheet model with Bayesian Uncertainty Quantification (p).",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 101511241,
+                        "language": "Python",
+                        "last_commit": "2025-01-08T18:01:11Z",
+                        "owner": "EdiGlacUQ",
+                        "repo": "fenics_ice",
+                        "stars": 6
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "flowline-glacier-model",
+                      "description": "Flowline glacier model by Andy Aschwanden",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 59557148,
+                        "language": "Python",
+                        "last_commit": "2022-06-14T16:58:45Z",
+                        "owner": "aaschwanden",
+                        "repo": "flowline-glacier-model",
+                        "stars": 6
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "VarGlaS",
+                      "description": "The source code repository for the Variational Glacier Simulator (VarGlaS) code (p)",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 12143802,
+                        "language": "Python",
+                        "last_commit": "2016-01-23T20:26:45Z",
+                        "owner": "douglas-brinkerhoff",
+                        "repo": "VarGlaS",
+                        "stars": 5
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "DEISM ice-sheet-model",
+                      "description": "DEpth integrated Ice Sheet Model (DEISM)",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 44542459,
+                        "language": "MATLAB",
+                        "last_commit": "2019-02-19T02:47:50Z",
+                        "owner": "cpk26",
+                        "repo": "ice-sheet-model",
+                        "stars": 1
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "speceis_flowline",
+                      "description": "Width-parameterized flowline version of the spectral ice sheet model (SpecEIS)",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 180230386,
+                        "language": "Python",
+                        "last_commit": "2019-08-12T23:48:59Z",
+                        "owner": "douglas-brinkerhoff",
+                        "repo": "speceis_flowline",
+                        "stars": 1
+                      }
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "Ice Flow and Mass Balance"
+                },
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "COSIPY",
+                      "description": "A flexible and user-friendly framework for modeling distributed snow and glacier mass changes (p)",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 107991330,
+                        "language": "Python",
+                        "last_commit": "2026-04-29T19:54:59Z",
+                        "owner": "cryotools",
+                        "repo": "cosipy",
+                        "stars": 62
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "pypdd",
+                      "description": "A positive degree day model for glacier surface mass balance (p)",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 8483394,
+                        "language": "Python",
+                        "last_commit": "2023-05-02T13:39:27Z",
+                        "owner": "juseg",
+                        "repo": "pypdd",
+                        "stars": 20
+                      }
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "(Surface) Mass Balance only"
+                },
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "HiDEM",
+                      "description": "Helsinki Discrete Element Model, a particle model for simulating elastic behaviour, fracture and calving at marine terminating glaciers (p)",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 134481936,
+                        "language": "C",
+                        "last_commit": "2023-04-20T12:18:51Z",
+                        "owner": "joeatodd",
+                        "repo": "HiDEM",
+                        "stars": 26
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "cryo_calving_2019",
+                      "description": "Experiments with a minimal Frontal ablation model added to OGGM",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 174557330,
+                        "language": "Python",
+                        "last_commit": "2019-09-12T08:14:44Z",
+                        "owner": "bearecinos",
+                        "repo": "cryo_calving_2019",
+                        "stars": 3
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "SERMeQ",
+                      "description": "Tool to estimate advance, retreat, and sea level contribution of calving glaciers forced by upstream surface mass balance, based on viscoplastic physics (p)",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 278448739,
+                        "language": "Python",
+                        "last_commit": "2024-10-16T17:17:19Z",
+                        "owner": "ehultee",
+                        "repo": "SERMeQ",
+                        "stars": 3
+                      }
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "Calving/Frontal Ablation"
+                },
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "DEBAM/DETIM",
+                      "description": "Distributed Energy Balance Model (DEBAM) and Distributed Enhanced Temperature Index Model (DETIM): Two Distributed Glacier Surface Mass-Balance and Discharge Models (p, p)",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 4397295,
+                        "language": "C",
+                        "last_commit": "2020-06-02T04:30:06Z",
+                        "owner": "regine",
+                        "repo": "meltmodel",
+                        "stars": 23
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "CCHF",
+                      "description": "Cryosphere hydrology modeling package written in Matlab (p)",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 66285115,
+                        "language": "MATLAB",
+                        "last_commit": "2020-07-30T01:03:54Z",
+                        "owner": "thomasmosier",
+                        "repo": "CCHF",
+                        "stars": 3
+                      }
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "Hydrology"
+                },
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "SELEN",
+                      "description": "Calculates glacial isostatic adjustment and the sea level equation",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 7970251,
+                        "language": "Fortran",
+                        "last_commit": "2023-06-28T07:39:59Z",
+                        "owner": "geodynamics",
+                        "repo": "selen",
+                        "stars": 29
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "debadvect",
+                      "description": "FEM model for englacial debris transport",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 91564373,
+                        "language": "Python",
+                        "last_commit": "2019-03-06T15:13:37Z",
+                        "owner": "awirbel",
+                        "repo": "debadvect",
+                        "stars": 5
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "GlacialLakeHazards",
+                      "description": "Matlab codes from PhD work on glacial lake outburst flood hazards in the Nepal Himalaya",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 103977751,
+                        "language": "MATLAB",
+                        "last_commit": "2020-04-24T11:42:57Z",
+                        "owner": "drounce",
+                        "repo": "GlacialLakeHazards",
+                        "stars": 4
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Rounce2014_debristhickness",
+                      "description": "Codes associated with deriving the debris thickness of debris-covered glaciers from Landsat thermal imagery",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 120348690,
+                        "language": "Matlab",
+                        "last_commit": "2018-02-05T19:15:01Z",
+                        "owner": "drounce",
+                        "repo": "Rounce2014_debristhickness",
+                        "stars": 3
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "sia-fve",
+                      "description": "implicit finite volume element (FVE) method for the shallow ice approximation (SIA) free-boundary problem",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 32609374,
+                        "language": "TeX",
+                        "last_commit": "2025-05-16T03:05:32Z",
+                        "owner": "bueler",
+                        "repo": "sia-fve",
+                        "stars": 3
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Glacier initialization",
+                      "description": "Method to reconstruct estimated glacier states up to 1850",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 169537411,
+                        "language": "Python",
+                        "last_commit": "2022-08-17T07:57:12Z",
+                        "owner": "OGGM",
+                        "repo": "initialization",
+                        "stars": 2
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "bod-marine",
+                      "description": "exact solution to marine ice sheet 1D problem, coming from Bodvardsson (1955)",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 4896491,
+                        "language": "TeX",
+                        "last_commit": "2017-01-02T06:34:24Z",
+                        "owner": "bueler",
+                        "repo": "bod-marine",
+                        "stars": 1
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "icepack-py",
+                      "description": "Python bindings and utility scripts for icepack",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 105718249,
+                        "language": "Python",
+                        "last_commit": "2017-11-01T21:05:41Z",
+                        "owner": "danshapero",
+                        "repo": "icepack-py",
+                        "stars": 1
+                      }
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "Miscellaneous"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "ISG Open Source Models"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "icepyx",
+                  "description": "Python tools for obtaining and working with ICESat-2 laser altimetry data",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 193000761,
+                    "language": "Python",
+                    "last_commit": "2026-08-17T00:43:03Z",
+                    "owner": "icesat2py",
+                    "repo": "icepyx",
+                    "stars": 258
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "DIC_FFT",
+                  "description": "Detect and quantify surface displacements in multi-temporal images (p)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 132727534,
+                    "language": "MATLAB",
+                    "last_commit": "2026-06-02T07:16:26Z",
+                    "owner": "bickelmps",
+                    "repo": "DIC_FFT_ETHZ",
+                    "stars": 49
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "glaciersat",
+                  "description": "Tools to observe glaciers from satellite imagery, such as albedo calculation and transient snow line detection",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 204881034,
+                    "language": "Python",
+                    "last_commit": "2024-01-09T16:32:25Z",
+                    "owner": "jlandmann",
+                    "repo": "glaciersat",
+                    "stars": 8
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "ISG Remote Sensing Software"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "ISG Software"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Glacier & Ice Sheet Dynamics at Georgia Tech",
+              "description": "Alex Robel's slides, notes, and code demonstrations for grad/undergrad course in glaciology",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 228452382,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-08-17T23:31:15Z",
+                "owner": "nsidc",
+                "repo": "NSIDC-Data-Tutorials",
+                "stars": 104
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "glacier-graphics",
+              "description": "A collection of glacier graphics that can be used for education and outreach",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 151821092,
+                "language": null,
+                "last_commit": "2022-01-20T10:32:31Z",
+                "owner": "OGGM",
+                "repo": "glacier-graphics",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ed Bueler's Karthaus material",
+              "description": "Notes and codes for Ed Bueler's numerical lectures at Karthaus (Italy) Summer School on Ice Sheets and Glaciers",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4896963,
+                "language": "TeX",
+                "last_commit": "2019-04-01T17:56:07Z",
+                "owner": "bueler",
+                "repo": "karthaus",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "js-ism",
+              "description": "Reimplementation of GRANTISM in Javascript",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7628737,
+                "language": "JavaScript",
+                "last_commit": "2016-02-15T13:30:10Z",
+                "owner": "mewo2",
+                "repo": "js-ism",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Lindsey Nicholson's teaching",
+              "description": "Materials Lindsey developed for teaching (mainly) about glaciers",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 91572487,
+                "language": null,
+                "last_commit": "2023-05-22T13:21:49Z",
+                "owner": "linznicholson",
+                "repo": "teaching",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Glaciers Dynamics Lecture",
+              "description": "Glacier Dynamics lecture by Andy Aschwanden",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2339171,
+                "language": null,
+                "last_commit": "2011-10-11T18:10:07Z",
+                "owner": "aaschwanden",
+                "repo": "glaciers617",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "UW_Geodetic_Mass_Budget_Scripts",
+              "description": "no description provided",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 92650621,
+                "language": "Jupyter Notebook",
+                "last_commit": "2017-09-24T15:34:25Z",
+                "owner": "ShashankBice",
+                "repo": "UW_Geodetic_Mass_Budget_Scripts",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "group",
+              "title": "International Summer School in Glaciology, McCarthy, Alaska",
+              "description": "bi-annual summer school hosted by University of Alaska in Fairbanks",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Ed Bueler's material",
+                  "description": "Slides, notes, and codes on numerical glacier and ice sheet modeling",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 55577467,
+                    "language": "TeX",
+                    "last_commit": "2026-06-15T02:28:42Z",
+                    "owner": "bueler",
+                    "repo": "mccarthy",
+                    "stars": 21
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Andy Aschwanden's material",
+                  "description": "Lecture notes and exercises on ice flow and thermodynamics",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 2869959,
+                    "language": "TeX",
+                    "last_commit": "2026-06-05T22:39:51Z",
+                    "owner": "aaschwanden",
+                    "repo": "mccarthy-summerschool",
+                    "stars": 2
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "ISG Educational Tools and Data"
+        }
+      ],
+      "title": "Ice Sheets and Glaciers"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "IceNet",
+              "description": "code to train a deep learning seasonal Arctic sea ice forecasting model (paper/pre-trained networks/Jupyter notebook demonstrator)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 388791527,
+                "language": "Python",
+                "last_commit": "2023-10-10T10:01:08Z",
+                "owner": "tom-andersson",
+                "repo": "icenet-paper",
+                "stars": 106
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CICE",
+              "description": "CICE sea-ice model",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 92321545,
+                "language": "Fortran",
+                "last_commit": "2026-08-18T19:35:13Z",
+                "owner": "CICE-Consortium",
+                "repo": "CICE",
+                "stars": 77
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Icepack",
+              "description": "sea-ice column physics",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 92322283,
+                "language": "Fortran",
+                "last_commit": "2026-08-17T19:34:16Z",
+                "owner": "CICE-Consortium",
+                "repo": "Icepack",
+                "stars": 37
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SIS2",
+              "description": "NOAA-GFDL's Sea Ice Simulator version 2",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 16698815,
+                "language": "Fortran",
+                "last_commit": "2026-07-27T14:10:32Z",
+                "owner": "NOAA-GFDL",
+                "repo": "SIS2",
+                "stars": 16
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "SI Software"
+        }
+      ],
       "title": "Sea Ice"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "IceNet",
-          "description": "code to train a deep learning seasonal Arctic sea ice forecasting model (paper/pre-trained networks/Jupyter notebook demonstrator)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-10-10T10:01:08Z",
-            "owner": "tom-andersson",
-            "repo": "icenet-paper",
-            "stars": 106
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CICE",
-          "description": "CICE sea-ice model",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Fortran",
-            "last_commit": "2026-08-14T06:23:38Z",
-            "owner": "CICE-Consortium",
-            "repo": "CICE",
-            "stars": 77
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Icepack",
-          "description": "sea-ice column physics",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Fortran",
-            "last_commit": "2026-08-17T19:34:16Z",
-            "owner": "CICE-Consortium",
-            "repo": "Icepack",
-            "stars": 37
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SIS2",
-          "description": "NOAA-GFDL's Sea Ice Simulator version 2",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Fortran",
-            "last_commit": "2026-07-27T14:10:32Z",
-            "owner": "NOAA-GFDL",
-            "repo": "SIS2",
-            "stars": 16
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SMRT",
+              "description": "Snow Microwave Radiative Transfer model to calculate scattering of microwave radiation in snow (p)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 72456822,
+                "language": "Python",
+                "last_commit": "2026-08-17T21:03:32Z",
+                "owner": "smrt-model",
+                "repo": "smrt",
+                "stars": 70
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cosipy",
+              "description": "Coupled snowpack and ice surface energy and mass balance model in Python",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 107991330,
+                "language": "Python",
+                "last_commit": "2026-04-29T19:54:59Z",
+                "owner": "cryotools",
+                "repo": "cosipy",
+                "stars": 62
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "openAMUNDSEN",
+              "description": "Modular snow and hydroclimatological modeling framework",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 355163829,
+                "language": "Python",
+                "last_commit": "2026-03-19T09:52:02Z",
+                "owner": "openamundsen",
+                "repo": "openamundsen",
+                "stars": 33
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FSM2",
+              "description": "Flexible Snow Model: a multi-physics energy balance model of accumulation and melt of snow on the ground and in forest canopies (p)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 100302880,
+                "language": "Fortran",
+                "last_commit": "2026-04-22T13:41:45Z",
+                "owner": "RichardEssery",
+                "repo": "FSM2",
+                "stars": 32
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TARTES",
+              "description": "Two-stream radiative transfer in Snow model, also available as a webapp",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 239599264,
+                "language": "Python",
+                "last_commit": "2025-07-22T15:43:01Z",
+                "owner": "ghislainp",
+                "repo": "tartes",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "snowtools",
+              "description": "D. Shean's utilities for working with snow data",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 99392971,
+                "language": "Python",
+                "last_commit": "2021-05-13T18:30:19Z",
+                "owner": "dshean",
+                "repo": "snowtools",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "snowoptics",
+              "description": "Functions to compute spectral albedo and extinction of snow on flat and tilted terrains, also available as a webapp",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 220084910,
+                "language": "Python",
+                "last_commit": "2025-11-01T09:30:36Z",
+                "owner": "ghislainp",
+                "repo": "snowoptics",
+                "stars": 6
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "SN Software"
         }
       ],
-      "title": "SI Software"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "SI Data"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Snow"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "SMRT",
-          "description": "Snow Microwave Radiative Transfer model to calculate scattering of microwave radiation in snow (p)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T21:03:32Z",
-            "owner": "smrt-model",
-            "repo": "smrt",
-            "stars": 70
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cosipy",
-          "description": "Coupled snowpack and ice surface energy and mass balance model in Python",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-29T19:54:59Z",
-            "owner": "cryotools",
-            "repo": "cosipy",
-            "stars": 62
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "openAMUNDSEN",
-          "description": "Modular snow and hydroclimatological modeling framework",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-19T09:52:02Z",
-            "owner": "openamundsen",
-            "repo": "openamundsen",
-            "stars": 33
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "FSM2",
-          "description": "Flexible Snow Model: a multi-physics energy balance model of accumulation and melt of snow on the ground and in forest canopies (p)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Fortran",
-            "last_commit": "2026-04-22T13:41:45Z",
-            "owner": "RichardEssery",
-            "repo": "FSM2",
-            "stars": 32
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TARTES",
-          "description": "Two-stream radiative transfer in Snow model, also available as a webapp",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-07-22T15:43:01Z",
-            "owner": "ghislainp",
-            "repo": "tartes",
-            "stars": 15
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "snowtools",
-          "description": "D. Shean's utilities for working with snow data",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-05-13T18:30:19Z",
-            "owner": "dshean",
-            "repo": "snowtools",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "snowoptics",
-          "description": "Functions to compute spectral albedo and extinction of snow on flat and tilted terrains, also available as a webapp",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-11-01T09:30:36Z",
-            "owner": "ghislainp",
-            "repo": "snowoptics",
-            "stars": 6
-          }
-        }
-      ],
-      "title": "SN Software"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "SN Data"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T15:56:04.046Z",
+    "last_updated": "2026-08-19T12:22:26.065Z",
     "original_repository": "awesome-cryosphere/cryosphere-links",
+    "original_repository_id": 370704331,
     "original_repository_sha": "1784d1d685c29d53dd26d6fb4d6be4aafdae6035",
     "enhanced_repository": "enhansome/enhansome-cryosphere-links",
     "enhanced_repository_description": null,
