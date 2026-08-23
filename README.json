@@ -61,10 +61,10 @@
                         "archived": false,
                         "id": 16771087,
                         "language": "Fortran",
-                        "last_commit": "2026-08-22T12:25:37Z",
+                        "last_commit": "2026-08-23T15:23:04Z",
                         "owner": "ElmerCSC",
                         "repo": "elmerfem",
-                        "stars": 1672
+                        "stars": 1673
                       }
                     },
                     {
@@ -136,7 +136,7 @@
                         "archived": false,
                         "id": 37473492,
                         "language": "MATLAB",
-                        "last_commit": "2026-08-22T13:39:50Z",
+                        "last_commit": "2026-08-22T17:00:45Z",
                         "owner": "GHilmarG",
                         "repo": "UaSource",
                         "stars": 25
@@ -584,7 +584,7 @@
                     "last_commit": "2026-08-17T00:43:03Z",
                     "owner": "icesat2py",
                     "repo": "icepyx",
-                    "stars": 257
+                    "stars": 258
                   }
                 },
                 {
@@ -972,7 +972,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T15:44:04.484Z",
+    "last_updated": "2026-08-23T15:45:17.739Z",
     "original_repository": "awesome-cryosphere/cryosphere-links",
     "original_repository_id": 370704331,
     "original_repository_sha": "1784d1d685c29d53dd26d6fb4d6be4aafdae6035",

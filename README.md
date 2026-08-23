@@ -78,7 +78,7 @@ A prototype of a curated list of awesome data sources, models, tools and organiz
 
 ##### Ice Flow and Mass Balance
 
-* [Elmer/Ice](https://github.com/elmercsc/elmerfem) ⭐ 1,672 | 🐛 74 | 🌐 Fortran | 📅 2026-08-22 - Open Source Finite Element Software for Ice Sheet, Glaciers and Ice Flow Modelling
+* [Elmer/Ice](https://github.com/elmercsc/elmerfem) ⭐ 1,673 | 🐛 76 | 🌐 Fortran | 📅 2026-08-23 - Open Source Finite Element Software for Ice Sheet, Glaciers and Ice Flow Modelling
 * [icepack](https://github.com/icepack/icepack) ⭐ 101 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2026-05-01 - Finite element modeling of glaciers and ice sheets
 * [PyGEM](https://github.com/drounce/PyGEM) ⭐ 68 | 🐛 14 | 🌐 Python | 📅 2026-05-21 - Python Glacier Evolution Model (PyGEM)
 * [ALPGM](https://github.com/JordiBolibar/ALPGM) ⭐ 45 | 🐛 3 | 🌐 Python | 📅 2024-11-06 - ALpine Parameterized Glacier Model. Deep learning-based regional glacier evolution model ([p](https://tc.copernicus.org/articles/14/565/2020/tc-14-565-2020.html))
@@ -173,7 +173,7 @@ A prototype of a curated list of awesome data sources, models, tools and organiz
 
 #### ISG Remote Sensing Software
 
-* [icepyx](https://github.com/icesat2py/icepyx) ⭐ 257 | 🐛 113 | 🌐 Python | 📅 2026-08-17 - Python tools for obtaining and working with ICESat-2 laser altimetry data
+* [icepyx](https://github.com/icesat2py/icepyx) ⭐ 258 | 🐛 113 | 🌐 Python | 📅 2026-08-17 - Python tools for obtaining and working with ICESat-2 laser altimetry data
 * [DIC\_FFT](https://github.com/bickelmps/DIC_FFT_ETHZ) ⭐ 49 | 🐛 0 | 🌐 MATLAB | 📅 2026-06-02 -  Detect and quantify surface displacements in multi-temporal images ([p](https://www.mdpi.com/2072-4292/10/6/865))
 * [glaciersat](https://github.com/jlandmann/glaciersat) ⭐ 8 | 🐛 3 | 🌐 Python | 📅 2024-01-09 -  Tools to observe glaciers from satellite imagery, such as albedo calculation and transient snow line detection
 
@@ -184,7 +184,7 @@ A prototype of a curated list of awesome data sources, models, tools and organiz
 * [FoG](https://wgms.ch/data_databaseversions/) - Fluctuations of Glaciers with point, elevation band and specific mass balance measurements
 * [Glacier Length Fluctuations](https://folk.uio.no/paulwl/length.php)  - Glacier Length Database by Paul Leclercq
 * [GlaThiDa](https://www.gtn-g.ch/data_catalogue_glathida/)  - Glacier Thickness Dataset with point, elevation band and specific ice thickness measurements
-* [RGI](http://www.glims.org/RGI/index.html) - Randolph Glacier Inventory, a global inventory of glacier outlines ([report an issue](https://github.com/GLIMS-RGI/rgi_issue_tracker) ⭐ 2 | 🐛 58 | 📅 2026-05-29)
+* [RGI](http://www.glims.org/RGI/index.html) - Randolph Glacier Inventory, a global inventory of glacier outlines ([report an issue](https://github.com/GLIMS-RGI/rgi_issue_tracker) ⭐ 2 | 🐛 59 | 📅 2026-05-29)
 * [WGI](https://nsidc.org/data/g01130)  - World Glacier Inventory
 * [ITS\_LIVE](https://its-live.jpl.nasa.gov/) - A NASA MEaSUREs project to provide automated, low latency, global glacier flow and elevation change datasets.
 
@@ -265,4 +265,4 @@ Thanks for your suggestions!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
