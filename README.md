@@ -233,7 +233,7 @@ A prototype of a curated list of awesome data sources, models, tools and organiz
 
 ### SN Software
 
-* [SMRT](https://github.com/smrt-model/smrt) ⭐ 70 | 🐛 8 | 🌐 Python | 📅 2026-08-19 - Snow Microwave Radiative Transfer model to calculate scattering of microwave radiation in snow ([p](https://doi.org/10.5194/gmd-11-2763-2018))
+* [SMRT](https://github.com/smrt-model/smrt) ⭐ 70 | 🐛 9 | 🌐 Python | 📅 2026-08-19 - Snow Microwave Radiative Transfer model to calculate scattering of microwave radiation in snow ([p](https://doi.org/10.5194/gmd-11-2763-2018))
 * [cosipy](https://github.com/cryotools/cosipy) ⭐ 62 | 🐛 38 | 🌐 Python | 📅 2026-04-29 - Coupled snowpack and ice surface energy and mass balance model in Python
 * [openAMUNDSEN](https://github.com/openamundsen/openamundsen) ⭐ 33 | 🐛 26 | 🌐 Python | 📅 2026-03-19 - Modular snow and hydroclimatological modeling framework
 * [FSM2](https://github.com/RichardEssery/FSM2) ⭐ 32 | 🐛 4 | 🌐 Fortran | 📅 2026-04-22 - Flexible Snow Model: a multi-physics energy balance model of accumulation and melt of snow on the ground and in forest canopies ([p](http://www.geosci-model-dev.net/8/3867/2015/))
