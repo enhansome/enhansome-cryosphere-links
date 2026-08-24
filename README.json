@@ -39,6 +39,28 @@
           "description": null,
           "node_type": "group",
           "title": "Cryo Software"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "NSIDC Data Tutorials",
+              "description": "Jupyter notebook guides to access, subset, transform, and visualize data products from NSIDC",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 228452382,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-08-17T23:31:15Z",
+                "owner": "nsidc",
+                "repo": "NSIDC-Data-Tutorials",
+                "stars": 104
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Cryo Data"
         }
       ],
       "title": "Cryosphere - across all subspheres"
@@ -61,10 +83,10 @@
                         "archived": false,
                         "id": 16771087,
                         "language": "Fortran",
-                        "last_commit": "2026-08-23T15:23:04Z",
+                        "last_commit": "2026-08-24T10:48:49Z",
                         "owner": "ElmerCSC",
                         "repo": "elmerfem",
-                        "stars": 1673
+                        "stars": 1674
                       }
                     },
                     {
@@ -574,6 +596,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "iceplotlib",
+                  "description": "Plotting tools for PISM using matplotlib and netcdf4-python",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 18593480,
+                    "language": "Python",
+                    "last_commit": "2018-09-26T03:25:37Z",
+                    "owner": "juseg",
+                    "repo": "iceplotlib",
+                    "stars": 2
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "ISG Visualization Tools"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "icepyx",
                   "description": "Python tools for obtaining and working with ICESat-2 laser altimetry data",
                   "children": [],
@@ -581,7 +625,7 @@
                     "archived": false,
                     "id": 193000761,
                     "language": "Python",
-                    "last_commit": "2026-08-17T00:43:03Z",
+                    "last_commit": "2026-08-24T00:43:57Z",
                     "owner": "icesat2py",
                     "repo": "icepyx",
                     "stars": 258
@@ -626,6 +670,35 @@
           "description": null,
           "node_type": "group",
           "title": "ISG Software"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "RGI",
+                  "description": "Randolph Glacier Inventory, a global inventory of glacier outlines (report an issue)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 255572135,
+                    "language": null,
+                    "last_commit": "2026-05-29T12:24:21Z",
+                    "owner": "GLIMS-RGI",
+                    "repo": "rgi_issue_tracker",
+                    "stars": 2
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "ISG Global Data"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "ISG Data"
         },
         {
           "children": [
@@ -972,7 +1045,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T15:45:17.739Z",
+    "last_updated": "2026-08-24T14:40:19.958Z",
     "original_repository": "awesome-cryosphere/cryosphere-links",
     "original_repository_id": 370704331,
     "original_repository_sha": "1784d1d685c29d53dd26d6fb4d6be4aafdae6035",
