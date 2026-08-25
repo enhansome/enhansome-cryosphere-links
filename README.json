@@ -884,7 +884,7 @@
                 "last_commit": "2026-08-18T19:35:13Z",
                 "owner": "CICE-Consortium",
                 "repo": "CICE",
-                "stars": 77
+                "stars": 78
               }
             },
             {
@@ -1045,7 +1045,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T16:03:21.458Z",
+    "last_updated": "2026-08-25T06:33:14.616Z",
     "original_repository": "awesome-cryosphere/cryosphere-links",
     "original_repository_id": 370704331,
     "original_repository_sha": "1784d1d685c29d53dd26d6fb4d6be4aafdae6035",
