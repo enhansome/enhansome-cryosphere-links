@@ -51,7 +51,7 @@
                 "archived": false,
                 "id": 228452382,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-17T23:31:15Z",
+                "last_commit": "2026-08-26T14:11:35Z",
                 "owner": "nsidc",
                 "repo": "NSIDC-Data-Tutorials",
                 "stars": 104
@@ -83,10 +83,10 @@
                         "archived": false,
                         "id": 16771087,
                         "language": "Fortran",
-                        "last_commit": "2026-08-25T14:15:23Z",
+                        "last_commit": "2026-08-26T14:37:35Z",
                         "owner": "ElmerCSC",
                         "repo": "elmerfem",
-                        "stars": 1674
+                        "stars": 1676
                       }
                     },
                     {
@@ -158,7 +158,7 @@
                         "archived": false,
                         "id": 37473492,
                         "language": "MATLAB",
-                        "last_commit": "2026-08-25T14:35:28Z",
+                        "last_commit": "2026-08-26T16:33:41Z",
                         "owner": "GHilmarG",
                         "repo": "UaSource",
                         "stars": 25
@@ -711,7 +711,7 @@
                 "archived": false,
                 "id": 228452382,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-17T23:31:15Z",
+                "last_commit": "2026-08-26T14:11:35Z",
                 "owner": "nsidc",
                 "repo": "NSIDC-Data-Tutorials",
                 "stars": 104
@@ -1045,7 +1045,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T16:06:59.881Z",
+    "last_updated": "2026-08-26T16:35:58.158Z",
     "original_repository": "awesome-cryosphere/cryosphere-links",
     "original_repository_id": 370704331,
     "original_repository_sha": "1784d1d685c29d53dd26d6fb4d6be4aafdae6035",
