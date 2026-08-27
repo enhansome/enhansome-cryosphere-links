@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 312108171,
                 "language": "Python",
-                "last_commit": "2026-08-22T06:53:10Z",
+                "last_commit": "2026-08-27T08:53:17Z",
                 "owner": "GlacioHack",
                 "repo": "xdem",
                 "stars": 215
@@ -51,10 +51,10 @@
                 "archived": false,
                 "id": 228452382,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-26T14:11:35Z",
+                "last_commit": "2026-08-26T17:19:28Z",
                 "owner": "nsidc",
                 "repo": "NSIDC-Data-Tutorials",
-                "stars": 104
+                "stars": 107
               }
             }
           ],
@@ -83,7 +83,7 @@
                         "archived": false,
                         "id": 16771087,
                         "language": "Fortran",
-                        "last_commit": "2026-08-26T14:37:35Z",
+                        "last_commit": "2026-08-27T09:58:36Z",
                         "owner": "ElmerCSC",
                         "repo": "elmerfem",
                         "stars": 1676
@@ -158,7 +158,7 @@
                         "archived": false,
                         "id": 37473492,
                         "language": "MATLAB",
-                        "last_commit": "2026-08-26T16:33:41Z",
+                        "last_commit": "2026-08-26T18:05:39Z",
                         "owner": "GHilmarG",
                         "repo": "UaSource",
                         "stars": 25
@@ -711,10 +711,10 @@
                 "archived": false,
                 "id": 228452382,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-26T14:11:35Z",
+                "last_commit": "2026-08-26T17:19:28Z",
                 "owner": "nsidc",
                 "repo": "NSIDC-Data-Tutorials",
-                "stars": 104
+                "stars": 107
               }
             },
             {
@@ -1045,9 +1045,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T16:35:58.158Z",
-    "original_repository": "awesome-cryosphere/cryosphere-links",
-    "original_repository_id": 370704331,
+    "last_updated": "2026-08-27T11:32:13.641Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 370704331,
+      "language": null,
+      "last_commit": "2024-06-14T11:31:14Z",
+      "owner": "awesome-cryosphere",
+      "repo": "cryosphere-links",
+      "stars": 96
+    },
     "original_repository_sha": "1784d1d685c29d53dd26d6fb4d6be4aafdae6035",
     "enhanced_repository": "enhansome/enhansome-cryosphere-links",
     "enhanced_repository_description": null,
