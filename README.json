@@ -83,10 +83,10 @@
                         "archived": false,
                         "id": 16771087,
                         "language": "Fortran",
-                        "last_commit": "2026-08-27T09:58:36Z",
+                        "last_commit": "2026-08-27T15:14:46Z",
                         "owner": "ElmerCSC",
                         "repo": "elmerfem",
-                        "stars": 1676
+                        "stars": 1678
                       }
                     },
                     {
@@ -939,7 +939,7 @@
                 "archived": false,
                 "id": 72456822,
                 "language": "Python",
-                "last_commit": "2026-08-19T15:50:53Z",
+                "last_commit": "2026-08-27T20:07:15Z",
                 "owner": "smrt-model",
                 "repo": "smrt",
                 "stars": 70
@@ -1045,7 +1045,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:32:13.641Z",
+    "last_updated": "2026-08-28T00:29:11.125Z",
     "original_repository_info": {
       "archived": false,
       "id": 370704331,
