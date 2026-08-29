@@ -12,12 +12,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Analysis of digital elevation models and elevation point clouds",
+                "homepage": "https://xdem.readthedocs.io/",
                 "id": 312108171,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T20:13:31Z",
+                "open_issues": 150,
                 "owner": "GlacioHack",
                 "repo": "xdem",
-                "stars": 215
+                "stars": 215,
+                "topics": [
+                  "coregistration",
+                  "dem",
+                  "digital-elevation-model",
+                  "error-analysis",
+                  "geostatistics",
+                  "gis",
+                  "python",
+                  "surface-elevation-data",
+                  "terrain-analysis",
+                  "uncertainty-quantification"
+                ]
               },
               "first_seen": "2026-08-29T00:03:03.574Z"
             },
@@ -28,12 +44,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Monitor and study any place on Earth and in Near Real-Time using the Sentinel Hub services developed by the EO research team at Sinergise",
+                "homepage": null,
                 "id": 460777031,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-20T07:43:09Z",
+                "open_issues": 9,
                 "owner": "wehrad",
                 "repo": "earthspy",
-                "stars": 73
+                "stars": 73,
+                "topics": [
+                  "earth-observation",
+                  "python",
+                  "satellite",
+                  "sentinel-hub"
+                ]
               },
               "first_seen": "2026-08-29T00:03:03.574Z"
             }
@@ -51,12 +77,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jupyter notebook-based tutorials to learn how to access and work with select NSIDC DAAC data.",
+                "homepage": null,
                 "id": 228452382,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2026-08-26T17:19:28Z",
+                "open_issues": 17,
                 "owner": "nsidc",
                 "repo": "NSIDC-Data-Tutorials",
-                "stars": 107
+                "stars": 107,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:03:03.574Z"
             }
@@ -84,12 +115,33 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Official git repository of Elmer FEM software",
+                        "homepage": "http://www.elmerfem.org",
                         "id": 16771087,
                         "language": "Fortran",
+                        "license": "NOASSERTION",
                         "last_commit": "2026-08-28T14:26:24Z",
+                        "open_issues": 78,
                         "owner": "ElmerCSC",
                         "repo": "elmerfem",
-                        "stars": 1682
+                        "stars": 1682,
+                        "topics": [
+                          "acoustics",
+                          "electromagnetics",
+                          "elmergrid",
+                          "elmergui",
+                          "elmerice",
+                          "elmersolver",
+                          "fem",
+                          "finite-element-methods",
+                          "finite-elements",
+                          "fluid-mechanics",
+                          "glaciology",
+                          "mpi",
+                          "multiphysics",
+                          "parallel-computing",
+                          "structural-mechanics"
+                        ]
                       },
                       "first_seen": "2026-08-29T00:03:03.574Z"
                     },
@@ -100,12 +152,20 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Finite element modeling of glaciers and ice sheets",
+                        "homepage": "https://icepack.github.io",
                         "id": 45697304,
                         "language": "Jupyter Notebook",
+                        "license": "GPL-3.0",
                         "last_commit": "2026-05-01T20:48:55Z",
+                        "open_issues": 7,
                         "owner": "icepack",
                         "repo": "icepack",
-                        "stars": 101
+                        "stars": 101,
+                        "topics": [
+                          "glaciers",
+                          "ice-sheets"
+                        ]
                       },
                       "first_seen": "2026-08-29T00:03:03.574Z"
                     },
@@ -116,12 +176,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": null,
+                        "homepage": null,
                         "id": 97507939,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2026-05-21T10:34:27Z",
+                        "open_issues": 14,
                         "owner": "PyGEM-Community",
                         "repo": "PyGEM",
-                        "stars": 68
+                        "stars": 68,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T00:03:03.574Z"
                     },
@@ -132,12 +197,22 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "ALpine Parameterized Glacier Model (ALPGM v1.2). Open-source regional glacier evolution model based on deep learning and parametrizations. ",
+                        "homepage": null,
                         "id": 195388796,
                         "language": "Python",
+                        "license": "GPL-3.0",
                         "last_commit": "2024-11-06T08:58:56Z",
+                        "open_issues": 3,
                         "owner": "JordiBolibar",
                         "repo": "ALPGM",
-                        "stars": 45
+                        "stars": 45,
+                        "topics": [
+                          "deep-learning",
+                          "glacier",
+                          "glacier-modelling",
+                          "surface-mass-balance"
+                        ]
                       },
                       "first_seen": "2026-08-29T00:03:03.574Z"
                     },
@@ -148,12 +223,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "The repository for the Community Firn Model",
+                        "homepage": null,
                         "id": 14030315,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2026-08-28T21:40:32Z",
+                        "open_issues": 6,
                         "owner": "UWGlaciology",
                         "repo": "CommunityFirnModel",
-                        "stars": 38
+                        "stars": 38,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T00:03:03.574Z"
                     },
@@ -164,12 +244,21 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Large scale ice-flow model ",
+                        "homepage": "http://ghilmarg.github.io/UaSource/",
                         "id": 37473492,
                         "language": "MATLAB",
+                        "license": null,
                         "last_commit": "2026-08-26T18:05:39Z",
+                        "open_issues": 0,
                         "owner": "GHilmarG",
                         "repo": "UaSource",
-                        "stars": 25
+                        "stars": 25,
+                        "topics": [
+                          "ice-flow-model",
+                          "matlab-toolbox",
+                          "ua"
+                        ]
                       },
                       "first_seen": "2026-08-29T00:03:03.574Z"
                     },
@@ -180,12 +269,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Public repository for source code of higher-order Community Ice Sheet Model",
+                        "homepage": "https://cism.github.io/",
                         "id": 25616807,
                         "language": "Fortran",
+                        "license": "LGPL-3.0",
                         "last_commit": "2018-07-08T17:30:29Z",
+                        "open_issues": 0,
                         "owner": "CISM",
                         "repo": "cism",
-                        "stars": 22
+                        "stars": 22,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T00:03:03.574Z"
                     },
@@ -196,12 +290,26 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Modeling glaciers on a digital elevation model (DEM) based on mass balance and a modified D8 flow algorithm applied to ice.",
+                        "homepage": "https://doi.org/10.5281/zenodo.6418201",
                         "id": 96700423,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2025-12-06T02:05:37Z",
+                        "open_issues": 7,
                         "owner": "munterfi",
                         "repo": "glacier-flow-model",
-                        "stars": 22
+                        "stars": 22,
+                        "topics": [
+                          "digital-elevation-model",
+                          "geographical-information-system",
+                          "geospatial",
+                          "glacier",
+                          "glaciers-flow",
+                          "gradient",
+                          "mass-balance",
+                          "modeling"
+                        ]
                       },
                       "first_seen": "2026-08-29T00:03:03.574Z"
                     },
@@ -212,12 +320,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Yelmo ice-sheet model code base",
+                        "homepage": null,
                         "id": 185207515,
                         "language": "Fortran",
+                        "license": "GPL-3.0",
                         "last_commit": "2026-05-17T05:52:24Z",
+                        "open_issues": 4,
                         "owner": "palma-ice",
                         "repo": "yelmo",
-                        "stars": 20
+                        "stars": 20,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T00:03:03.574Z"
                     },
@@ -228,12 +341,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "A program to create reconstructions of ice sheets using perfectly plastic, steady state conditions",
+                        "homepage": null,
                         "id": 72419734,
                         "language": "Roff",
+                        "license": "GPL-3.0",
                         "last_commit": "2022-06-23T08:21:53Z",
+                        "open_issues": 0,
                         "owner": "evangowan",
                         "repo": "icesheet",
-                        "stars": 9
+                        "stars": 9,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T00:03:03.574Z"
                     },
@@ -244,12 +362,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "icetools provides a development environment for numerical ice flow models/simulations. Nonlinear rheology and Stokes approach are implemented. \"Ready to use\" programs/scripts are available based on different numerical libraries, from educational to HPC",
+                        "homepage": null,
                         "id": 172715676,
                         "language": "Python",
+                        "license": "GPL-3.0",
                         "last_commit": "2019-05-23T06:42:56Z",
+                        "open_issues": 0,
                         "owner": "alexjarosch",
                         "repo": "icetools",
-                        "stars": 7
+                        "stars": 7,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T00:03:03.574Z"
                     },
@@ -260,12 +383,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Implementation of a MUSCL-superbee flux limiter to a shallow ice approximation flow code based on finite differences",
+                        "homepage": null,
                         "id": 49494493,
                         "language": "Python",
+                        "license": "GPL-3.0",
                         "last_commit": "2019-11-09T10:48:37Z",
+                        "open_issues": 0,
                         "owner": "alexjarosch",
                         "repo": "sia-fluxlim",
-                        "stars": 7
+                        "stars": 7,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T00:03:03.574Z"
                     },
@@ -276,12 +404,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": null,
+                        "homepage": null,
                         "id": 101511241,
                         "language": "Python",
+                        "license": "LGPL-3.0",
                         "last_commit": "2025-01-08T18:01:11Z",
+                        "open_issues": 12,
                         "owner": "EdiGlacUQ",
                         "repo": "fenics_ice",
-                        "stars": 6
+                        "stars": 6,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T00:03:03.574Z"
                     },
@@ -292,12 +425,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Flowline glacier model",
+                        "homepage": null,
                         "id": 59557148,
                         "language": "Python",
+                        "license": null,
                         "last_commit": "2022-06-14T16:58:45Z",
+                        "open_issues": 0,
                         "owner": "aaschwanden",
                         "repo": "flowline-glacier-model",
-                        "stars": 6
+                        "stars": 6,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T00:03:03.574Z"
                     },
@@ -308,12 +446,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "The source code repository for the Variational Glacier Simulator (VarGlaS) code.",
+                        "homepage": null,
                         "id": 12143802,
                         "language": "Python",
+                        "license": null,
                         "last_commit": "2016-01-23T20:26:45Z",
+                        "open_issues": 0,
                         "owner": "douglas-brinkerhoff",
                         "repo": "VarGlaS",
-                        "stars": 5
+                        "stars": 5,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T00:03:03.574Z"
                     },
@@ -324,12 +467,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "DEpth integrated Ice Sheet Model (DEISM)",
+                        "homepage": null,
                         "id": 44542459,
                         "language": "MATLAB",
+                        "license": null,
                         "last_commit": "2019-02-19T02:47:50Z",
+                        "open_issues": 0,
                         "owner": "cpk26",
                         "repo": "ice-sheet-model",
-                        "stars": 1
+                        "stars": 1,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T00:03:03.574Z"
                     },
@@ -340,12 +488,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Width-parameterized flowline version of the spectral ice sheet model (SpecEIS).  ",
+                        "homepage": null,
                         "id": 180230386,
                         "language": "Python",
+                        "license": null,
                         "last_commit": "2019-08-12T23:48:59Z",
+                        "open_issues": 0,
                         "owner": "douglas-brinkerhoff",
                         "repo": "speceis_flowline",
-                        "stars": 1
+                        "stars": 1,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T00:03:03.574Z"
                     }
@@ -363,12 +516,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Coupled snowpack and ice surface energy and mass balance model in Python",
+                        "homepage": null,
                         "id": 107991330,
                         "language": "Python",
+                        "license": "GPL-3.0",
                         "last_commit": "2026-04-29T19:54:59Z",
+                        "open_issues": 38,
                         "owner": "cryotools",
                         "repo": "cosipy",
-                        "stars": 62
+                        "stars": 62,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T00:03:03.574Z"
                     },
@@ -379,12 +537,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "A positive degree day model for glacier surface mass balance",
+                        "homepage": null,
                         "id": 8483394,
                         "language": "Python",
+                        "license": "GPL-3.0",
                         "last_commit": "2023-05-02T13:39:27Z",
+                        "open_issues": 2,
                         "owner": "juseg",
                         "repo": "pypdd",
-                        "stars": 20
+                        "stars": 20,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T00:03:03.574Z"
                     }
@@ -402,12 +565,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "The Helsinki Discrete Element Model",
+                        "homepage": null,
                         "id": 134481936,
                         "language": "C",
+                        "license": "GPL-3.0",
                         "last_commit": "2023-04-20T12:18:51Z",
+                        "open_issues": 4,
                         "owner": "joeatodd",
                         "repo": "HiDEM",
-                        "stars": 26
+                        "stars": 26,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T00:03:03.574Z"
                     },
@@ -418,12 +586,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Experiments with a minimal Frontal ablation model added to OGGM",
+                        "homepage": null,
                         "id": 174557330,
                         "language": "Python",
+                        "license": "GPL-3.0",
                         "last_commit": "2019-09-12T08:14:44Z",
+                        "open_issues": 0,
                         "owner": "bearecinos",
                         "repo": "cryo_calving_2019",
-                        "stars": 3
+                        "stars": 3,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T00:03:03.574Z"
                     },
@@ -434,12 +607,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Source code for the Simple Estimator of Retreat Magnitude and ice flux (Q) for calving glaciers",
+                        "homepage": null,
                         "id": 278448739,
                         "language": "Python",
+                        "license": null,
                         "last_commit": "2024-10-16T17:17:19Z",
+                        "open_issues": 0,
                         "owner": "ehultee",
                         "repo": "SERMeQ",
-                        "stars": 3
+                        "stars": 3,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T00:03:03.574Z"
                     }
@@ -457,12 +635,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "A Distributed Surface Mass Balance Model",
+                        "homepage": "regine.github.com/meltmodel",
                         "id": 4397295,
                         "language": "C",
+                        "license": "GPL-3.0",
                         "last_commit": "2020-06-02T04:30:06Z",
+                        "open_issues": 11,
                         "owner": "regine",
                         "repo": "meltmodel",
-                        "stars": 23
+                        "stars": 23,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T00:03:03.574Z"
                     },
@@ -473,12 +656,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Cryosphere hydrology modeling package written in Matlab. Please contact Thomas Mosier with any questions, for example to obtain inputs to run a test case. The initial release of this modeling package is described in Mosier, Thomas M., David F. Hill, and Kendra V. Sharp. “How Much Cryosphere Model Complexity Is Just Right? Exploration Using the Conceptual Cryrosphere Hydrology Framework.” The Cryosphere Discussions (2016): 1–33. doi: 10.5194/tc-2016-17",
+                        "homepage": null,
                         "id": 66285115,
                         "language": "MATLAB",
+                        "license": null,
                         "last_commit": "2020-07-30T01:03:54Z",
+                        "open_issues": 1,
                         "owner": "thomasmosier",
                         "repo": "CCHF",
-                        "stars": 3
+                        "stars": 3,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T00:03:03.574Z"
                     }
@@ -496,12 +684,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "SELEN: a program for solving the \"Sea Level Equation\".",
+                        "homepage": "https://geodynamics.org/resources/selen",
                         "id": 7970251,
                         "language": "Fortran",
+                        "license": "BSD-3-Clause",
                         "last_commit": "2023-06-28T07:39:59Z",
+                        "open_issues": 1,
                         "owner": "geodynamics",
                         "repo": "selen",
-                        "stars": 29
+                        "stars": 29,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T00:03:03.574Z"
                     },
@@ -512,12 +705,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "FEM model for englacial debris transport",
+                        "homepage": null,
                         "id": 91564373,
                         "language": "Python",
+                        "license": "GPL-3.0",
                         "last_commit": "2019-03-06T15:13:37Z",
+                        "open_issues": 0,
                         "owner": "awirbel",
                         "repo": "debadvect",
-                        "stars": 5
+                        "stars": 5,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T00:03:03.574Z"
                     },
@@ -528,12 +726,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Matlab codes from PhD work on glacial lake outburst flood hazards in the Nepal Himalaya",
+                        "homepage": null,
                         "id": 103977751,
                         "language": "MATLAB",
+                        "license": null,
                         "last_commit": "2020-04-24T11:42:57Z",
+                        "open_issues": 1,
                         "owner": "drounce",
                         "repo": "GlacialLakeHazards",
-                        "stars": 4
+                        "stars": 4,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T00:03:03.574Z"
                     },
@@ -544,12 +747,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Codes associated with deriving the debris thickness of debris-covered glaciers from Landsat thermal imagery",
+                        "homepage": null,
                         "id": 120348690,
                         "language": "Matlab",
+                        "license": "MIT",
                         "last_commit": "2018-02-05T19:15:01Z",
+                        "open_issues": 0,
                         "owner": "drounce",
                         "repo": "Rounce2014_debristhickness",
-                        "stars": 3
+                        "stars": 3,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T00:03:03.574Z"
                     },
@@ -560,12 +768,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "implicit finite volume element (FVE) method for the shallow ice approximation (SIA) free-boundary problem ... published J. Glaciol. 2016",
+                        "homepage": "https://doi.org/10.1017/jog.2015.3",
                         "id": 32609374,
                         "language": "TeX",
+                        "license": null,
                         "last_commit": "2025-05-16T03:05:32Z",
+                        "open_issues": 0,
                         "owner": "bueler",
                         "repo": "sia-fve",
-                        "stars": 3
+                        "stars": 3,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T00:03:03.574Z"
                     },
@@ -576,12 +789,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Method to reconstruct estimated glacier states up to 1850",
+                        "homepage": null,
                         "id": 169537411,
                         "language": "Python",
+                        "license": "BSD-3-Clause",
                         "last_commit": "2022-08-17T07:57:12Z",
+                        "open_issues": 0,
                         "owner": "OGGM",
                         "repo": "initialization",
-                        "stars": 2
+                        "stars": 2,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T00:03:03.574Z"
                     },
@@ -592,12 +810,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "exact solution to marine ice sheet 1D problem, coming from Bodvardsson (1955) ... published",
+                        "homepage": "https://doi.org/10.3189/2014JoG14J066",
                         "id": 4896491,
                         "language": "TeX",
+                        "license": null,
                         "last_commit": "2017-01-02T06:34:24Z",
+                        "open_issues": 0,
                         "owner": "bueler",
                         "repo": "bod-marine",
-                        "stars": 1
+                        "stars": 1,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T00:03:03.574Z"
                     },
@@ -608,12 +831,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "python bindings and utility scripts for icepack",
+                        "homepage": null,
                         "id": 105718249,
                         "language": "Python",
+                        "license": null,
                         "last_commit": "2017-11-01T21:05:41Z",
+                        "open_issues": 0,
                         "owner": "danshapero",
                         "repo": "icepack-py",
-                        "stars": 1
+                        "stars": 1,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T00:03:03.574Z"
                     }
@@ -636,12 +864,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Plotting tools for PISM using matplotlib and netcdf4-python.",
+                    "homepage": null,
                     "id": 18593480,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2018-09-26T03:25:37Z",
+                    "open_issues": 7,
                     "owner": "juseg",
                     "repo": "iceplotlib",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:03.574Z"
                 }
@@ -659,12 +892,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Python tools for obtaining and working with ICESat-2 data",
+                    "homepage": "https://icepyx.readthedocs.io/en/latest/",
                     "id": 193000761,
                     "language": "Python",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2026-08-24T00:43:57Z",
+                    "open_issues": 113,
                     "owner": "icesat2py",
                     "repo": "icepyx",
-                    "stars": 258
+                    "stars": 258,
+                    "topics": [
+                      "closember",
+                      "community-driven",
+                      "hacktoberfest",
+                      "icesat-2",
+                      "python3"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:03:03.574Z"
                 },
@@ -675,12 +919,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Digital Image Correlation using a Fast Fourier Transform approach",
+                    "homepage": null,
                     "id": 132727534,
                     "language": "MATLAB",
+                    "license": "MIT",
                     "last_commit": "2026-06-02T07:16:26Z",
+                    "open_issues": 0,
                     "owner": "bickelmps",
                     "repo": "DIC_FFT_ETHZ",
-                    "stars": 49
+                    "stars": 49,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:03.574Z"
                 },
@@ -691,12 +940,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Observe glaciers from satellite imagery.",
+                    "homepage": "https://glaciersat.readthedocs.io/",
                     "id": 204881034,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-01-09T16:32:25Z",
+                    "open_issues": 3,
                     "owner": "jlandmann",
                     "repo": "glaciersat",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": [
+                      "glaciers",
+                      "remote-sensing"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:03:03.574Z"
                 }
@@ -721,12 +978,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Report issues about the RGI dataset",
+                    "homepage": null,
                     "id": 255572135,
                     "language": null,
+                    "license": null,
                     "last_commit": "2026-05-29T12:24:21Z",
+                    "open_issues": 59,
                     "owner": "GLIMS-RGI",
                     "repo": "rgi_issue_tracker",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:03.574Z"
                 }
@@ -749,12 +1011,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jupyter notebook-based tutorials to learn how to access and work with select NSIDC DAAC data.",
+                "homepage": null,
                 "id": 228452382,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2026-08-26T17:19:28Z",
+                "open_issues": 17,
                 "owner": "nsidc",
                 "repo": "NSIDC-Data-Tutorials",
-                "stars": 107
+                "stars": 107,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:03:03.574Z"
             },
@@ -765,12 +1032,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of glacier graphics that can be used for education and outreach",
+                "homepage": null,
                 "id": 151821092,
                 "language": null,
+                "license": null,
                 "last_commit": "2022-01-20T10:32:31Z",
+                "open_issues": 1,
                 "owner": "OGGM",
                 "repo": "glacier-graphics",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "education",
+                  "glacier",
+                  "outreach"
+                ]
               },
               "first_seen": "2026-08-29T00:03:03.574Z"
             },
@@ -781,12 +1057,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "notes and codes for my numerical lectures at Karthaus (Italy) Summer School on Ice Sheets and Glaciers",
+                "homepage": null,
                 "id": 4896963,
                 "language": "TeX",
+                "license": null,
                 "last_commit": "2019-04-01T17:56:07Z",
+                "open_issues": 0,
                 "owner": "bueler",
                 "repo": "karthaus",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:03:03.574Z"
             },
@@ -797,12 +1078,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple Javascript ice sheet model",
+                "homepage": null,
                 "id": 7628737,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2016-02-15T13:30:10Z",
+                "open_issues": 0,
                 "owner": "mewo2",
                 "repo": "js-ism",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:03:03.574Z"
             },
@@ -813,12 +1099,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "materials I develop for teaching (mainly) about glaciers",
+                "homepage": null,
                 "id": 91572487,
                 "language": null,
+                "license": "GPL-3.0",
                 "last_commit": "2023-05-22T13:21:49Z",
+                "open_issues": 0,
                 "owner": "linznicholson",
                 "repo": "teaching",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:03:03.574Z"
             },
@@ -829,12 +1120,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Glacier Dynamics lecture",
+                "homepage": null,
                 "id": 2339171,
                 "language": null,
+                "license": null,
                 "last_commit": "2011-10-11T18:10:07Z",
+                "open_issues": 0,
                 "owner": "aaschwanden",
                 "repo": "glaciers617",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:03:03.574Z"
             },
@@ -845,12 +1141,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 92650621,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2017-09-24T15:34:25Z",
+                "open_issues": 0,
                 "owner": "ShashankBice",
                 "repo": "UW_Geodetic_Mass_Budget_Scripts",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:03:03.574Z"
             },
@@ -866,12 +1167,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "my slides, notes, and codes on numerical glacier and ice sheet modeling, for the International Summer School in Glaciology, McCarthy, AK",
+                    "homepage": null,
                     "id": 55577467,
                     "language": "TeX",
+                    "license": null,
                     "last_commit": "2026-06-15T02:28:42Z",
+                    "open_issues": 2,
                     "owner": "bueler",
                     "repo": "mccarthy",
-                    "stars": 21
+                    "stars": 21,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:03.574Z"
                 },
@@ -882,12 +1188,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "International Summer School in Glaciology, McCarthy, AK. Lecture notes and excercises.",
+                    "homepage": null,
                     "id": 2869959,
                     "language": "TeX",
+                    "license": null,
                     "last_commit": "2026-06-05T22:39:51Z",
+                    "open_issues": 0,
                     "owner": "aaschwanden",
                     "repo": "mccarthy-summerschool",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:03.574Z"
                 }
@@ -913,12 +1224,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code associated with the paper 'Seasonal Arctic sea ice forecasting with probabilistic deep learning'",
+                "homepage": null,
                 "id": 388791527,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2023-10-10T10:01:08Z",
+                "open_issues": 1,
                 "owner": "tom-andersson",
                 "repo": "icenet-paper",
-                "stars": 106
+                "stars": 106,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:03:03.574Z"
             },
@@ -929,12 +1245,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Development repository for the CICE sea-ice model",
+                "homepage": null,
                 "id": 92321545,
                 "language": "Fortran",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-18T19:35:13Z",
+                "open_issues": 94,
                 "owner": "CICE-Consortium",
                 "repo": "CICE",
-                "stars": 78
+                "stars": 78,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:03:03.574Z"
             },
@@ -945,12 +1266,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Development repository for sea-ice column physics",
+                "homepage": null,
                 "id": 92322283,
                 "language": "Fortran",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-17T19:34:16Z",
+                "open_issues": 27,
                 "owner": "CICE-Consortium",
                 "repo": "Icepack",
-                "stars": 37
+                "stars": 37,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:03:03.574Z"
             },
@@ -961,12 +1287,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NOAA-GFDL's Sea Ice Simulator version 2",
+                "homepage": null,
                 "id": 16698815,
                 "language": "Fortran",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-27T14:10:32Z",
+                "open_issues": 16,
                 "owner": "NOAA-GFDL",
                 "repo": "SIS2",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:03:03.574Z"
             }
@@ -990,12 +1321,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Snow Microwave Radiative Transfer model to compute thermal emission, backscatter and altimetric waveform from snowpack, sea-ice, frozen lakes and other cryospheric environments",
+                "homepage": "https://smrt-model.science/",
                 "id": 72456822,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-27T20:07:15Z",
+                "open_issues": 9,
                 "owner": "smrt-model",
                 "repo": "smrt",
-                "stars": 70
+                "stars": 70,
+                "topics": [
+                  "altimetry",
+                  "ice-sheet",
+                  "microwave",
+                  "modeling",
+                  "radar",
+                  "sea-ice",
+                  "snow"
+                ]
               },
               "first_seen": "2026-08-29T00:03:03.574Z"
             },
@@ -1006,12 +1350,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Coupled snowpack and ice surface energy and mass balance model in Python",
+                "homepage": null,
                 "id": 107991330,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-04-29T19:54:59Z",
+                "open_issues": 38,
                 "owner": "cryotools",
                 "repo": "cosipy",
-                "stars": 62
+                "stars": 62,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:03:03.574Z"
             },
@@ -1022,12 +1371,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Modular snow and hydroclimatological modeling framework written in Python",
+                "homepage": null,
                 "id": 355163829,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-03-19T09:52:02Z",
+                "open_issues": 26,
                 "owner": "openamundsen",
                 "repo": "openamundsen",
-                "stars": 33
+                "stars": 33,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:03:03.574Z"
             },
@@ -1038,12 +1392,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Flexible Snow Model - a multi-physics energy balance model of accumulation and melt of snow on the ground and in forest canopies",
+                "homepage": null,
                 "id": 100302880,
                 "language": "Fortran",
+                "license": "MIT",
                 "last_commit": "2026-04-22T13:41:45Z",
+                "open_issues": 4,
                 "owner": "RichardEssery",
                 "repo": "FSM2",
-                "stars": 32
+                "stars": 32,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:03:03.574Z"
             },
@@ -1054,12 +1413,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Two-streAm Radiative TransfEr in Snow model",
+                "homepage": null,
                 "id": 239599264,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2025-07-22T15:43:01Z",
+                "open_issues": 0,
                 "owner": "ghislainp",
                 "repo": "tartes",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:03:03.574Z"
             },
@@ -1070,12 +1434,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Utilities for working with snow data",
+                "homepage": null,
                 "id": 99392971,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2021-05-13T18:30:19Z",
+                "open_issues": 1,
                 "owner": "dshean",
                 "repo": "snowtools",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:03:03.574Z"
             },
@@ -1086,12 +1455,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Snowoptics computes spectral albedo and extinction of snow, and correct albedo measurements from slope distortion",
+                "homepage": null,
                 "id": 220084910,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-11-01T09:30:36Z",
+                "open_issues": 0,
                 "owner": "ghislainp",
                 "repo": "snowoptics",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:03:03.574Z"
             }
@@ -1105,15 +1479,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:03:03.574Z",
+    "last_updated": "2026-08-29T04:58:36.552Z",
     "original_repository_info": {
       "archived": false,
+      "description": "This is a link list with awesome data, models, and tools around the cryosphere.",
+      "homepage": null,
       "id": 370704331,
       "language": null,
+      "license": null,
       "last_commit": "2024-06-14T11:31:14Z",
+      "open_issues": 0,
       "owner": "awesome-cryosphere",
       "repo": "cryosphere-links",
-      "stars": 96
+      "stars": 96,
+      "topics": [
+        "awesome-list",
+        "cryosphere",
+        "glaciers",
+        "ice-sheets",
+        "permafrost",
+        "sea-ice",
+        "snow"
+      ]
     },
     "original_repository_sha": "1784d1d685c29d53dd26d6fb4d6be4aafdae6035",
     "enhanced_repository": "enhansome/enhansome-cryosphere-links",
