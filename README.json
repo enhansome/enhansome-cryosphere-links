@@ -14,11 +14,12 @@
                 "archived": false,
                 "id": 312108171,
                 "language": "Python",
-                "last_commit": "2026-08-27T08:53:17Z",
+                "last_commit": "2026-08-28T20:13:31Z",
                 "owner": "GlacioHack",
                 "repo": "xdem",
                 "stars": 215
-              }
+              },
+              "first_seen": "2026-08-29T00:03:03.574Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "wehrad",
                 "repo": "earthspy",
                 "stars": 73
-              }
+              },
+              "first_seen": "2026-08-29T00:03:03.574Z"
             }
           ],
           "description": null,
@@ -55,7 +57,8 @@
                 "owner": "nsidc",
                 "repo": "NSIDC-Data-Tutorials",
                 "stars": 107
-              }
+              },
+              "first_seen": "2026-08-29T00:03:03.574Z"
             }
           ],
           "description": null,
@@ -83,11 +86,12 @@
                         "archived": false,
                         "id": 16771087,
                         "language": "Fortran",
-                        "last_commit": "2026-08-27T15:14:46Z",
+                        "last_commit": "2026-08-28T14:26:24Z",
                         "owner": "ElmerCSC",
                         "repo": "elmerfem",
-                        "stars": 1678
-                      }
+                        "stars": 1682
+                      },
+                      "first_seen": "2026-08-29T00:03:03.574Z"
                     },
                     {
                       "node_type": "item",
@@ -102,7 +106,8 @@
                         "owner": "icepack",
                         "repo": "icepack",
                         "stars": 101
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:03:03.574Z"
                     },
                     {
                       "node_type": "item",
@@ -117,7 +122,8 @@
                         "owner": "PyGEM-Community",
                         "repo": "PyGEM",
                         "stars": 68
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:03:03.574Z"
                     },
                     {
                       "node_type": "item",
@@ -132,7 +138,8 @@
                         "owner": "JordiBolibar",
                         "repo": "ALPGM",
                         "stars": 45
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:03:03.574Z"
                     },
                     {
                       "node_type": "item",
@@ -143,11 +150,12 @@
                         "archived": false,
                         "id": 14030315,
                         "language": "Python",
-                        "last_commit": "2025-12-23T20:10:41Z",
+                        "last_commit": "2026-08-28T21:40:32Z",
                         "owner": "UWGlaciology",
                         "repo": "CommunityFirnModel",
                         "stars": 38
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:03:03.574Z"
                     },
                     {
                       "node_type": "item",
@@ -162,7 +170,8 @@
                         "owner": "GHilmarG",
                         "repo": "UaSource",
                         "stars": 25
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:03:03.574Z"
                     },
                     {
                       "node_type": "item",
@@ -177,7 +186,8 @@
                         "owner": "CISM",
                         "repo": "cism",
                         "stars": 22
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:03:03.574Z"
                     },
                     {
                       "node_type": "item",
@@ -192,7 +202,8 @@
                         "owner": "munterfi",
                         "repo": "glacier-flow-model",
                         "stars": 22
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:03:03.574Z"
                     },
                     {
                       "node_type": "item",
@@ -207,7 +218,8 @@
                         "owner": "palma-ice",
                         "repo": "yelmo",
                         "stars": 20
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:03:03.574Z"
                     },
                     {
                       "node_type": "item",
@@ -222,7 +234,8 @@
                         "owner": "evangowan",
                         "repo": "icesheet",
                         "stars": 9
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:03:03.574Z"
                     },
                     {
                       "node_type": "item",
@@ -237,7 +250,8 @@
                         "owner": "alexjarosch",
                         "repo": "icetools",
                         "stars": 7
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:03:03.574Z"
                     },
                     {
                       "node_type": "item",
@@ -252,7 +266,8 @@
                         "owner": "alexjarosch",
                         "repo": "sia-fluxlim",
                         "stars": 7
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:03:03.574Z"
                     },
                     {
                       "node_type": "item",
@@ -267,7 +282,8 @@
                         "owner": "EdiGlacUQ",
                         "repo": "fenics_ice",
                         "stars": 6
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:03:03.574Z"
                     },
                     {
                       "node_type": "item",
@@ -282,7 +298,8 @@
                         "owner": "aaschwanden",
                         "repo": "flowline-glacier-model",
                         "stars": 6
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:03:03.574Z"
                     },
                     {
                       "node_type": "item",
@@ -297,7 +314,8 @@
                         "owner": "douglas-brinkerhoff",
                         "repo": "VarGlaS",
                         "stars": 5
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:03:03.574Z"
                     },
                     {
                       "node_type": "item",
@@ -312,7 +330,8 @@
                         "owner": "cpk26",
                         "repo": "ice-sheet-model",
                         "stars": 1
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:03:03.574Z"
                     },
                     {
                       "node_type": "item",
@@ -327,7 +346,8 @@
                         "owner": "douglas-brinkerhoff",
                         "repo": "speceis_flowline",
                         "stars": 1
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:03:03.574Z"
                     }
                   ],
                   "description": null,
@@ -349,7 +369,8 @@
                         "owner": "cryotools",
                         "repo": "cosipy",
                         "stars": 62
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:03:03.574Z"
                     },
                     {
                       "node_type": "item",
@@ -364,7 +385,8 @@
                         "owner": "juseg",
                         "repo": "pypdd",
                         "stars": 20
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:03:03.574Z"
                     }
                   ],
                   "description": null,
@@ -386,7 +408,8 @@
                         "owner": "joeatodd",
                         "repo": "HiDEM",
                         "stars": 26
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:03:03.574Z"
                     },
                     {
                       "node_type": "item",
@@ -401,7 +424,8 @@
                         "owner": "bearecinos",
                         "repo": "cryo_calving_2019",
                         "stars": 3
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:03:03.574Z"
                     },
                     {
                       "node_type": "item",
@@ -416,7 +440,8 @@
                         "owner": "ehultee",
                         "repo": "SERMeQ",
                         "stars": 3
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:03:03.574Z"
                     }
                   ],
                   "description": null,
@@ -438,7 +463,8 @@
                         "owner": "regine",
                         "repo": "meltmodel",
                         "stars": 23
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:03:03.574Z"
                     },
                     {
                       "node_type": "item",
@@ -453,7 +479,8 @@
                         "owner": "thomasmosier",
                         "repo": "CCHF",
                         "stars": 3
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:03:03.574Z"
                     }
                   ],
                   "description": null,
@@ -475,7 +502,8 @@
                         "owner": "geodynamics",
                         "repo": "selen",
                         "stars": 29
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:03:03.574Z"
                     },
                     {
                       "node_type": "item",
@@ -490,7 +518,8 @@
                         "owner": "awirbel",
                         "repo": "debadvect",
                         "stars": 5
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:03:03.574Z"
                     },
                     {
                       "node_type": "item",
@@ -505,7 +534,8 @@
                         "owner": "drounce",
                         "repo": "GlacialLakeHazards",
                         "stars": 4
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:03:03.574Z"
                     },
                     {
                       "node_type": "item",
@@ -520,7 +550,8 @@
                         "owner": "drounce",
                         "repo": "Rounce2014_debristhickness",
                         "stars": 3
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:03:03.574Z"
                     },
                     {
                       "node_type": "item",
@@ -535,7 +566,8 @@
                         "owner": "bueler",
                         "repo": "sia-fve",
                         "stars": 3
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:03:03.574Z"
                     },
                     {
                       "node_type": "item",
@@ -550,7 +582,8 @@
                         "owner": "OGGM",
                         "repo": "initialization",
                         "stars": 2
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:03:03.574Z"
                     },
                     {
                       "node_type": "item",
@@ -565,7 +598,8 @@
                         "owner": "bueler",
                         "repo": "bod-marine",
                         "stars": 1
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:03:03.574Z"
                     },
                     {
                       "node_type": "item",
@@ -580,7 +614,8 @@
                         "owner": "danshapero",
                         "repo": "icepack-py",
                         "stars": 1
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:03:03.574Z"
                     }
                   ],
                   "description": null,
@@ -607,7 +642,8 @@
                     "owner": "juseg",
                     "repo": "iceplotlib",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:03:03.574Z"
                 }
               ],
               "description": null,
@@ -629,7 +665,8 @@
                     "owner": "icesat2py",
                     "repo": "icepyx",
                     "stars": 258
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:03:03.574Z"
                 },
                 {
                   "node_type": "item",
@@ -644,7 +681,8 @@
                     "owner": "bickelmps",
                     "repo": "DIC_FFT_ETHZ",
                     "stars": 49
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:03:03.574Z"
                 },
                 {
                   "node_type": "item",
@@ -659,7 +697,8 @@
                     "owner": "jlandmann",
                     "repo": "glaciersat",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:03:03.574Z"
                 }
               ],
               "description": null,
@@ -688,7 +727,8 @@
                     "owner": "GLIMS-RGI",
                     "repo": "rgi_issue_tracker",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:03:03.574Z"
                 }
               ],
               "description": null,
@@ -715,7 +755,8 @@
                 "owner": "nsidc",
                 "repo": "NSIDC-Data-Tutorials",
                 "stars": 107
-              }
+              },
+              "first_seen": "2026-08-29T00:03:03.574Z"
             },
             {
               "node_type": "item",
@@ -730,7 +771,8 @@
                 "owner": "OGGM",
                 "repo": "glacier-graphics",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-29T00:03:03.574Z"
             },
             {
               "node_type": "item",
@@ -745,7 +787,8 @@
                 "owner": "bueler",
                 "repo": "karthaus",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-29T00:03:03.574Z"
             },
             {
               "node_type": "item",
@@ -760,7 +803,8 @@
                 "owner": "mewo2",
                 "repo": "js-ism",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T00:03:03.574Z"
             },
             {
               "node_type": "item",
@@ -775,7 +819,8 @@
                 "owner": "linznicholson",
                 "repo": "teaching",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-29T00:03:03.574Z"
             },
             {
               "node_type": "item",
@@ -790,7 +835,8 @@
                 "owner": "aaschwanden",
                 "repo": "glaciers617",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T00:03:03.574Z"
             },
             {
               "node_type": "item",
@@ -805,7 +851,8 @@
                 "owner": "ShashankBice",
                 "repo": "UW_Geodetic_Mass_Budget_Scripts",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T00:03:03.574Z"
             },
             {
               "node_type": "group",
@@ -825,7 +872,8 @@
                     "owner": "bueler",
                     "repo": "mccarthy",
                     "stars": 21
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:03:03.574Z"
                 },
                 {
                   "node_type": "item",
@@ -840,7 +888,8 @@
                     "owner": "aaschwanden",
                     "repo": "mccarthy-summerschool",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:03:03.574Z"
                 }
               ]
             }
@@ -870,7 +919,8 @@
                 "owner": "tom-andersson",
                 "repo": "icenet-paper",
                 "stars": 106
-              }
+              },
+              "first_seen": "2026-08-29T00:03:03.574Z"
             },
             {
               "node_type": "item",
@@ -885,7 +935,8 @@
                 "owner": "CICE-Consortium",
                 "repo": "CICE",
                 "stars": 78
-              }
+              },
+              "first_seen": "2026-08-29T00:03:03.574Z"
             },
             {
               "node_type": "item",
@@ -900,7 +951,8 @@
                 "owner": "CICE-Consortium",
                 "repo": "Icepack",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-29T00:03:03.574Z"
             },
             {
               "node_type": "item",
@@ -915,7 +967,8 @@
                 "owner": "NOAA-GFDL",
                 "repo": "SIS2",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-29T00:03:03.574Z"
             }
           ],
           "description": null,
@@ -943,7 +996,8 @@
                 "owner": "smrt-model",
                 "repo": "smrt",
                 "stars": 70
-              }
+              },
+              "first_seen": "2026-08-29T00:03:03.574Z"
             },
             {
               "node_type": "item",
@@ -958,7 +1012,8 @@
                 "owner": "cryotools",
                 "repo": "cosipy",
                 "stars": 62
-              }
+              },
+              "first_seen": "2026-08-29T00:03:03.574Z"
             },
             {
               "node_type": "item",
@@ -973,7 +1028,8 @@
                 "owner": "openamundsen",
                 "repo": "openamundsen",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-29T00:03:03.574Z"
             },
             {
               "node_type": "item",
@@ -988,7 +1044,8 @@
                 "owner": "RichardEssery",
                 "repo": "FSM2",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-29T00:03:03.574Z"
             },
             {
               "node_type": "item",
@@ -1003,7 +1060,8 @@
                 "owner": "ghislainp",
                 "repo": "tartes",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-29T00:03:03.574Z"
             },
             {
               "node_type": "item",
@@ -1018,7 +1076,8 @@
                 "owner": "dshean",
                 "repo": "snowtools",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-29T00:03:03.574Z"
             },
             {
               "node_type": "item",
@@ -1033,7 +1092,8 @@
                 "owner": "ghislainp",
                 "repo": "snowoptics",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T00:03:03.574Z"
             }
           ],
           "description": null,
@@ -1045,7 +1105,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T00:29:11.125Z",
+    "last_updated": "2026-08-29T00:03:03.574Z",
     "original_repository_info": {
       "archived": false,
       "id": 370704331,
