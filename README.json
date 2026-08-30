@@ -120,11 +120,11 @@
                         "id": 16771087,
                         "language": "Fortran",
                         "license": "NOASSERTION",
-                        "last_commit": "2026-08-28T14:26:24Z",
-                        "open_issues": 78,
+                        "last_commit": "2026-08-30T07:10:47Z",
+                        "open_issues": 85,
                         "owner": "ElmerCSC",
                         "repo": "elmerfem",
-                        "stars": 1682,
+                        "stars": 1683,
                         "topics": [
                           "acoustics",
                           "electromagnetics",
@@ -249,7 +249,7 @@
                         "id": 37473492,
                         "language": "MATLAB",
                         "license": null,
-                        "last_commit": "2026-08-29T07:48:49Z",
+                        "last_commit": "2026-08-30T09:38:25Z",
                         "open_issues": 0,
                         "owner": "GHilmarG",
                         "repo": "UaSource",
@@ -1479,7 +1479,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T18:44:10.858Z",
+    "last_updated": "2026-08-30T18:41:10.305Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a link list with awesome data, models, and tools around the cryosphere.",
