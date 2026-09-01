@@ -120,11 +120,11 @@
                         "id": 16771087,
                         "language": "Fortran",
                         "license": "NOASSERTION",
-                        "last_commit": "2026-08-31T16:46:17Z",
+                        "last_commit": "2026-09-01T16:18:04Z",
                         "open_issues": 81,
                         "owner": "ElmerCSC",
                         "repo": "elmerfem",
-                        "stars": 1684,
+                        "stars": 1685,
                         "topics": [
                           "acoustics",
                           "electromagnetics",
@@ -249,7 +249,7 @@
                         "id": 37473492,
                         "language": "MATLAB",
                         "license": null,
-                        "last_commit": "2026-08-31T19:13:30Z",
+                        "last_commit": "2026-09-01T12:52:44Z",
                         "open_issues": 0,
                         "owner": "GHilmarG",
                         "repo": "UaSource",
@@ -546,7 +546,7 @@
                         "open_issues": 2,
                         "owner": "juseg",
                         "repo": "pypdd",
-                        "stars": 20,
+                        "stars": 21,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T00:03:03.574Z"
@@ -1326,8 +1326,8 @@
                 "id": 72456822,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-27T20:07:15Z",
-                "open_issues": 9,
+                "last_commit": "2026-09-01T14:23:10Z",
+                "open_issues": 8,
                 "owner": "smrt-model",
                 "repo": "smrt",
                 "stars": 70,
@@ -1479,7 +1479,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T20:55:48.904Z",
+    "last_updated": "2026-09-01T18:41:06.659Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a link list with awesome data, models, and tools around the cryosphere.",

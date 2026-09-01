@@ -78,12 +78,12 @@ A prototype of a curated list of awesome data sources, models, tools and organiz
 
 ##### Ice Flow and Mass Balance
 
-* [Elmer/Ice](https://github.com/elmercsc/elmerfem) ⭐ 1,684 | 🐛 81 | 🌐 Fortran | 📅 2026-08-31 - Open Source Finite Element Software for Ice Sheet, Glaciers and Ice Flow Modelling
+* [Elmer/Ice](https://github.com/elmercsc/elmerfem) ⭐ 1,685 | 🐛 81 | 🌐 Fortran | 📅 2026-09-01 - Open Source Finite Element Software for Ice Sheet, Glaciers and Ice Flow Modelling
 * [icepack](https://github.com/icepack/icepack) ⭐ 101 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2026-05-01 - Finite element modeling of glaciers and ice sheets
 * [PyGEM](https://github.com/drounce/PyGEM) ⭐ 68 | 🐛 14 | 🌐 Python | 📅 2026-05-21 - Python Glacier Evolution Model (PyGEM)
 * [ALPGM](https://github.com/JordiBolibar/ALPGM) ⭐ 45 | 🐛 3 | 🌐 Python | 📅 2024-11-06 - ALpine Parameterized Glacier Model. Deep learning-based regional glacier evolution model ([p](https://tc.copernicus.org/articles/14/565/2020/tc-14-565-2020.html))
 * [CFM](https://github.com/UWGlaciology/CommunityFirnModel) ⭐ 38 | 🐛 6 | 🌐 Python | 📅 2026-08-28 - Community Firn Model ([p](https://gmd.copernicus.org/articles/13/4355/2020/gmd-13-4355-2020.html))
-* [Úa](https://github.com/GHilmarG/UaSource) ⭐ 25 | 🐛 0 | 🌐 MATLAB | 📅 2026-08-31 - A large-scale ice-flow model
+* [Úa](https://github.com/GHilmarG/UaSource) ⭐ 25 | 🐛 0 | 🌐 MATLAB | 📅 2026-09-01 - A large-scale ice-flow model
 * [CISM](https://github.com/CISM/cism) ⭐ 22 | 🐛 0 | 🌐 Fortran | 📅 2018-07-08 - Community Ice Sheet Model ([p](https://doi.org/10.1029/2008JF001015))
 * [glacier-flow-model](https://github.com/munterfinger/glacier-flow-model) ⭐ 22 | 🐛 7 | 🌐 Python | 📅 2025-12-06 - Modelling glacier flow, based on the glaciers mass balance and a digital elevation model
 * [Yelmo](https://github.com/palma-ice/yelmo) ⭐ 20 | 🐛 4 | 🌐 Fortran | 📅 2026-05-17 - a 3D ice-sheet-shelf model solving for the coupled dynamics and thermodynamics of the ice sheet system ([p](https://doi.org/10.5194/gmd-2019-273))
@@ -107,7 +107,7 @@ A prototype of a curated list of awesome data sources, models, tools and organiz
 ##### (Surface) Mass Balance only
 
 * [COSIPY](https://github.com/cryotools/cosipy) ⭐ 62 | 🐛 38 | 🌐 Python | 📅 2026-04-29 -  A flexible and user-friendly framework for modeling distributed snow and glacier mass changes ([p](https://doi.org/10.5194/gmd-13-5645-2020))
-* [pypdd](https://github.com/juseg/pypdd) ⭐ 20 | 🐛 2 | 🌐 Python | 📅 2023-05-02 - A positive degree day model for glacier surface mass balance ([p](http://doi.org/10.3189/2013JoG13J081))
+* [pypdd](https://github.com/juseg/pypdd) ⭐ 21 | 🐛 2 | 🌐 Python | 📅 2023-05-02 - A positive degree day model for glacier surface mass balance ([p](http://doi.org/10.3189/2013JoG13J081))
 * [MAR](https://mar.cnrs.fr/) -  A regional climate model for modelling surface mass balance ([p](http://journals.ametsoc.org/doi/abs/10.1175/1520-0493\(1994\)122%3C0671:DOATDM%3E2.0.CO;2))
 
 ##### Calving/Frontal Ablation
@@ -233,7 +233,7 @@ A prototype of a curated list of awesome data sources, models, tools and organiz
 
 ### SN Software
 
-* [SMRT](https://github.com/smrt-model/smrt) ⭐ 70 | 🐛 9 | 🌐 Python | 📅 2026-08-27 - Snow Microwave Radiative Transfer model to calculate scattering of microwave radiation in snow ([p](https://doi.org/10.5194/gmd-11-2763-2018))
+* [SMRT](https://github.com/smrt-model/smrt) ⭐ 70 | 🐛 8 | 🌐 Python | 📅 2026-09-01 - Snow Microwave Radiative Transfer model to calculate scattering of microwave radiation in snow ([p](https://doi.org/10.5194/gmd-11-2763-2018))
 * [cosipy](https://github.com/cryotools/cosipy) ⭐ 62 | 🐛 38 | 🌐 Python | 📅 2026-04-29 - Coupled snowpack and ice surface energy and mass balance model in Python
 * [openAMUNDSEN](https://github.com/openamundsen/openamundsen) ⭐ 33 | 🐛 26 | 🌐 Python | 📅 2026-03-19 - Modular snow and hydroclimatological modeling framework
 * [FSM2](https://github.com/RichardEssery/FSM2) ⭐ 32 | 🐛 4 | 🌐 Fortran | 📅 2026-04-22 - Flexible Snow Model: a multi-physics energy balance model of accumulation and melt of snow on the ground and in forest canopies ([p](http://www.geosci-model-dev.net/8/3867/2015/))
@@ -265,4 +265,4 @@ Thanks for your suggestions!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
