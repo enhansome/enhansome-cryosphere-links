@@ -78,7 +78,7 @@ A prototype of a curated list of awesome data sources, models, tools and organiz
 
 ##### Ice Flow and Mass Balance
 
-* [Elmer/Ice](https://github.com/elmercsc/elmerfem) ⭐ 1,700 | 🐛 82 | 🌐 Fortran | 📅 2026-09-10 - Open Source Finite Element Software for Ice Sheet, Glaciers and Ice Flow Modelling
+* [Elmer/Ice](https://github.com/elmercsc/elmerfem) ⭐ 1,702 | 🐛 84 | 🌐 Fortran | 📅 2026-09-11 - Open Source Finite Element Software for Ice Sheet, Glaciers and Ice Flow Modelling
 * [icepack](https://github.com/icepack/icepack) ⭐ 101 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2026-05-01 - Finite element modeling of glaciers and ice sheets
 * [PyGEM](https://github.com/drounce/PyGEM) ⭐ 68 | 🐛 14 | 🌐 Python | 📅 2026-05-21 - Python Glacier Evolution Model (PyGEM)
 * [ALPGM](https://github.com/JordiBolibar/ALPGM) ⭐ 45 | 🐛 3 | 🌐 Python | 📅 2024-11-06 - ALpine Parameterized Glacier Model. Deep learning-based regional glacier evolution model ([p](https://tc.copernicus.org/articles/14/565/2020/tc-14-565-2020.html))
@@ -129,7 +129,7 @@ A prototype of a curated list of awesome data sources, models, tools and organiz
 
 ##### Miscellaneous
 
-* [SELEN](https://github.com/geodynamics/selen) ⭐ 29 | 🐛 1 | 🌐 Fortran | 📅 2023-06-28 - Calculates glacial isostatic adjustment and the sea level equation
+* [SELEN](https://github.com/geodynamics/selen) ⭐ 29 | 🐛 1 | 🌐 Fortran | 📅 2026-09-11 - Calculates glacial isostatic adjustment and the sea level equation
 * [debadvect](https://github.com/awirbel/debadvect) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2019-03-06 - FEM model for englacial debris transport
 * [GlacialLakeHazards](https://github.com/drounce/GlacialLakeHazards) ⭐ 4 | 🐛 1 | 🌐 MATLAB | 📅 2020-04-24 - Matlab codes from PhD work on glacial lake outburst flood hazards in the Nepal Himalaya
 * [Rounce2014\_debristhickness](https://github.com/drounce/Rounce2014_debristhickness) ⭐ 3 | 🐛 0 | 🌐 Matlab | 📅 2018-02-05 - Codes associated with deriving the debris thickness of debris-covered glaciers from Landsat thermal imagery
@@ -265,4 +265,4 @@ Thanks for your suggestions!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._

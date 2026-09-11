@@ -120,11 +120,11 @@
                         "id": 16771087,
                         "language": "Fortran",
                         "license": "NOASSERTION",
-                        "last_commit": "2026-09-10T15:28:51Z",
-                        "open_issues": 82,
+                        "last_commit": "2026-09-11T13:37:30Z",
+                        "open_issues": 84,
                         "owner": "ElmerCSC",
                         "repo": "elmerfem",
-                        "stars": 1700,
+                        "stars": 1702,
                         "topics": [
                           "acoustics",
                           "electromagnetics",
@@ -689,7 +689,7 @@
                         "id": 7970251,
                         "language": "Fortran",
                         "license": "BSD-3-Clause",
-                        "last_commit": "2023-06-28T07:39:59Z",
+                        "last_commit": "2026-09-11T08:38:51Z",
                         "open_issues": 1,
                         "owner": "geodynamics",
                         "repo": "selen",
@@ -1479,7 +1479,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T18:36:03.436Z",
+    "last_updated": "2026-09-11T18:41:15.213Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a link list with awesome data, models, and tools around the cryosphere.",
