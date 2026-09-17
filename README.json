@@ -18,10 +18,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-12T23:44:37Z",
-                "open_issues": 140,
+                "open_issues": 139,
                 "owner": "GlacioHack",
                 "repo": "xdem",
-                "stars": 217,
+                "stars": 218,
                 "topics": [
                   "coregistration",
                   "dem",
@@ -120,11 +120,11 @@
                         "id": 16771087,
                         "language": "Fortran",
                         "license": "NOASSERTION",
-                        "last_commit": "2026-09-16T16:30:02Z",
-                        "open_issues": 85,
+                        "last_commit": "2026-09-17T17:36:14Z",
+                        "open_issues": 80,
                         "owner": "ElmerCSC",
                         "repo": "elmerfem",
-                        "stars": 1706,
+                        "stars": 1708,
                         "topics": [
                           "acoustics",
                           "electromagnetics",
@@ -249,7 +249,7 @@
                         "id": 37473492,
                         "language": "MATLAB",
                         "license": null,
-                        "last_commit": "2026-09-16T15:19:17Z",
+                        "last_commit": "2026-09-17T18:19:27Z",
                         "open_issues": 0,
                         "owner": "GHilmarG",
                         "repo": "UaSource",
@@ -1479,7 +1479,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T18:59:45.145Z",
+    "last_updated": "2026-09-17T19:09:12.655Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a link list with awesome data, models, and tools around the cryosphere.",
@@ -1491,7 +1491,7 @@
       "open_issues": 0,
       "owner": "awesome-cryosphere",
       "repo": "cryosphere-links",
-      "stars": 96,
+      "stars": 97,
       "topics": [
         "awesome-list",
         "cryosphere",
