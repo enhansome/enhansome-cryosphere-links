@@ -21,7 +21,7 @@
                 "open_issues": 138,
                 "owner": "GlacioHack",
                 "repo": "xdem",
-                "stars": 218,
+                "stars": 219,
                 "topics": [
                   "coregistration",
                   "dem",
@@ -120,11 +120,11 @@
                         "id": 16771087,
                         "language": "Fortran",
                         "license": "NOASSERTION",
-                        "last_commit": "2026-09-28T14:38:00Z",
-                        "open_issues": 95,
+                        "last_commit": "2026-09-29T12:42:14Z",
+                        "open_issues": 93,
                         "owner": "ElmerCSC",
                         "repo": "elmerfem",
-                        "stars": 1716,
+                        "stars": 1720,
                         "topics": [
                           "acoustics",
                           "electromagnetics",
@@ -1250,8 +1250,8 @@
                 "id": 92321545,
                 "language": "Fortran",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-18T19:35:13Z",
-                "open_issues": 96,
+                "last_commit": "2026-09-28T23:57:26Z",
+                "open_issues": 98,
                 "owner": "CICE-Consortium",
                 "repo": "CICE",
                 "stars": 79,
@@ -1272,7 +1272,7 @@
                 "language": "Fortran",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-17T19:34:16Z",
-                "open_issues": 28,
+                "open_issues": 29,
                 "owner": "CICE-Consortium",
                 "repo": "Icepack",
                 "stars": 37,
@@ -1479,7 +1479,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T21:18:24.190Z",
+    "last_updated": "2026-09-29T20:05:49.136Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a link list with awesome data, models, and tools around the cryosphere.",
