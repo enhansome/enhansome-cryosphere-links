@@ -1250,8 +1250,8 @@
                 "id": 92321545,
                 "language": "Fortran",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-01T01:16:17Z",
-                "open_issues": 97,
+                "last_commit": "2026-10-02T21:05:30Z",
+                "open_issues": 95,
                 "owner": "CICE-Consortium",
                 "repo": "CICE",
                 "stars": 80,
@@ -1479,7 +1479,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T20:02:18.037Z",
+    "last_updated": "2026-10-03T04:39:55.814Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a link list with awesome data, models, and tools around the cryosphere.",
