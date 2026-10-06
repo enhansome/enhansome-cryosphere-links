@@ -120,7 +120,7 @@
                         "id": 16771087,
                         "language": "Fortran",
                         "license": "NOASSERTION",
-                        "last_commit": "2026-10-05T16:33:35Z",
+                        "last_commit": "2026-10-06T09:56:35Z",
                         "open_issues": 91,
                         "owner": "ElmerCSC",
                         "repo": "elmerfem",
@@ -157,8 +157,8 @@
                         "id": 45697304,
                         "language": "Jupyter Notebook",
                         "license": "GPL-3.0",
-                        "last_commit": "2026-05-01T20:48:55Z",
-                        "open_issues": 9,
+                        "last_commit": "2026-10-05T23:52:13Z",
+                        "open_issues": 7,
                         "owner": "icepack",
                         "repo": "icepack",
                         "stars": 101,
@@ -329,7 +329,7 @@
                         "open_issues": 4,
                         "owner": "palma-ice",
                         "repo": "yelmo",
-                        "stars": 20,
+                        "stars": 19,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T00:03:03.574Z"
@@ -897,7 +897,7 @@
                     "id": 193000761,
                     "language": "Python",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-10-05T03:10:27Z",
+                    "last_commit": "2026-10-06T00:11:11Z",
                     "open_issues": 113,
                     "owner": "icesat2py",
                     "repo": "icepyx",
@@ -1479,7 +1479,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T22:06:12.033Z",
+    "last_updated": "2026-10-06T11:05:21.068Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a link list with awesome data, models, and tools around the cryosphere.",
