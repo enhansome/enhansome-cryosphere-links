@@ -53,7 +53,7 @@
                 "open_issues": 9,
                 "owner": "wehrad",
                 "repo": "earthspy",
-                "stars": 72,
+                "stars": 71,
                 "topics": [
                   "earth-observation",
                   "python",
@@ -124,7 +124,7 @@
                         "open_issues": 90,
                         "owner": "ElmerCSC",
                         "repo": "elmerfem",
-                        "stars": 1728,
+                        "stars": 1729,
                         "topics": [
                           "acoustics",
                           "electromagnetics",
@@ -249,7 +249,7 @@
                         "id": 37473492,
                         "language": "MATLAB",
                         "license": null,
-                        "last_commit": "2026-10-09T13:21:38Z",
+                        "last_commit": "2026-10-10T15:55:14Z",
                         "open_issues": 0,
                         "owner": "GHilmarG",
                         "repo": "UaSource",
@@ -898,7 +898,7 @@
                     "language": "Python",
                     "license": "BSD-3-Clause",
                     "last_commit": "2026-10-06T00:11:11Z",
-                    "open_issues": 113,
+                    "open_issues": 114,
                     "owner": "icesat2py",
                     "repo": "icepyx",
                     "stars": 259,
@@ -1479,7 +1479,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T20:12:15.193Z",
+    "last_updated": "2026-10-10T19:24:46.260Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a link list with awesome data, models, and tools around the cryosphere.",
