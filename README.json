@@ -18,7 +18,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-18T02:08:29Z",
-                "open_issues": 139,
+                "open_issues": 140,
                 "owner": "GlacioHack",
                 "repo": "xdem",
                 "stars": 219,
@@ -124,7 +124,7 @@
                         "open_issues": 90,
                         "owner": "ElmerCSC",
                         "repo": "elmerfem",
-                        "stars": 1729,
+                        "stars": 1732,
                         "topics": [
                           "acoustics",
                           "electromagnetics",
@@ -898,7 +898,7 @@
                     "language": "Python",
                     "license": "BSD-3-Clause",
                     "last_commit": "2026-10-06T00:11:11Z",
-                    "open_issues": 114,
+                    "open_issues": 115,
                     "owner": "icesat2py",
                     "repo": "icepyx",
                     "stars": 259,
@@ -1251,7 +1251,7 @@
                 "language": "Fortran",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-08T19:18:39Z",
-                "open_issues": 94,
+                "open_issues": 95,
                 "owner": "CICE-Consortium",
                 "repo": "CICE",
                 "stars": 80,
@@ -1327,7 +1327,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-09T16:31:09Z",
-                "open_issues": 8,
+                "open_issues": 9,
                 "owner": "smrt-model",
                 "repo": "smrt",
                 "stars": 70,
@@ -1479,7 +1479,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T19:24:46.260Z",
+    "last_updated": "2026-10-11T19:37:34.317Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a link list with awesome data, models, and tools around the cryosphere.",
