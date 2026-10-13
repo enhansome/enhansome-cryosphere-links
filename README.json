@@ -120,11 +120,11 @@
                         "id": 16771087,
                         "language": "Fortran",
                         "license": "NOASSERTION",
-                        "last_commit": "2026-10-12T13:18:42Z",
-                        "open_issues": 92,
+                        "last_commit": "2026-10-13T14:09:58Z",
+                        "open_issues": 91,
                         "owner": "ElmerCSC",
                         "repo": "elmerfem",
-                        "stars": 1733,
+                        "stars": 1735,
                         "topics": [
                           "acoustics",
                           "electromagnetics",
@@ -1366,27 +1366,6 @@
             },
             {
               "node_type": "item",
-              "title": "openAMUNDSEN",
-              "description": "Modular snow and hydroclimatological modeling framework",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Modular snow and hydroclimatological modeling framework written in Python",
-                "homepage": null,
-                "id": 355163829,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-10-05T07:42:45Z",
-                "open_issues": 26,
-                "owner": "openamundsen",
-                "repo": "openamundsen",
-                "stars": 35,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T00:03:03.574Z"
-            },
-            {
-              "node_type": "item",
               "title": "FSM2",
               "description": "Flexible Snow Model: a multi-physics energy balance model of accumulation and melt of snow on the ground and in forest canopies (p)",
               "children": [],
@@ -1401,6 +1380,27 @@
                 "open_issues": 4,
                 "owner": "RichardEssery",
                 "repo": "FSM2",
+                "stars": 33,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T00:03:03.574Z"
+            },
+            {
+              "node_type": "item",
+              "title": "openAMUNDSEN",
+              "description": "Modular snow and hydroclimatological modeling framework",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Modular snow and hydroclimatological modeling framework written in Python",
+                "homepage": null,
+                "id": 355163829,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-05T07:42:45Z",
+                "open_issues": 26,
+                "owner": "openamundsen",
+                "repo": "openamundsen",
                 "stars": 33,
                 "topics": []
               },
@@ -1479,7 +1479,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T22:32:17.556Z",
+    "last_updated": "2026-10-13T20:45:44.855Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a link list with awesome data, models, and tools around the cryosphere.",
