@@ -1271,7 +1271,7 @@
                 "id": 92322283,
                 "language": "Fortran",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-20T19:24:34Z",
+                "last_commit": "2026-10-21T19:20:03Z",
                 "open_issues": 29,
                 "owner": "CICE-Consortium",
                 "repo": "Icepack",
@@ -1326,7 +1326,7 @@
                 "id": 72456822,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-20T17:46:37Z",
+                "last_commit": "2026-10-20T20:57:36Z",
                 "open_issues": 11,
                 "owner": "smrt-model",
                 "repo": "smrt",
@@ -1479,7 +1479,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T19:26:54.306Z",
+    "last_updated": "2026-10-21T19:26:27.033Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a link list with awesome data, models, and tools around the cryosphere.",
