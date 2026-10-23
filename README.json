@@ -86,7 +86,7 @@
                 "open_issues": 17,
                 "owner": "nsidc",
                 "repo": "NSIDC-Data-Tutorials",
-                "stars": 108,
+                "stars": 109,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:03:03.574Z"
@@ -120,11 +120,11 @@
                         "id": 16771087,
                         "language": "Fortran",
                         "license": "NOASSERTION",
-                        "last_commit": "2026-10-20T11:59:14Z",
-                        "open_issues": 95,
+                        "last_commit": "2026-10-23T11:09:59Z",
+                        "open_issues": 93,
                         "owner": "ElmerCSC",
                         "repo": "elmerfem",
-                        "stars": 1743,
+                        "stars": 1744,
                         "topics": [
                           "acoustics",
                           "electromagnetics",
@@ -1020,7 +1020,7 @@
                 "open_issues": 17,
                 "owner": "nsidc",
                 "repo": "NSIDC-Data-Tutorials",
-                "stars": 108,
+                "stars": 109,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:03:03.574Z"
@@ -1254,7 +1254,7 @@
                 "open_issues": 96,
                 "owner": "CICE-Consortium",
                 "repo": "CICE",
-                "stars": 80,
+                "stars": 79,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:03:03.574Z"
@@ -1479,7 +1479,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T19:19:43.356Z",
+    "last_updated": "2026-10-23T19:25:09.067Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a link list with awesome data, models, and tools around the cryosphere.",
