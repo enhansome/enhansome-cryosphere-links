@@ -124,7 +124,7 @@
                         "open_issues": 91,
                         "owner": "ElmerCSC",
                         "repo": "elmerfem",
-                        "stars": 1753,
+                        "stars": 1752,
                         "topics": [
                           "acoustics",
                           "electromagnetics",
@@ -249,7 +249,7 @@
                         "id": 37473492,
                         "language": "MATLAB",
                         "license": null,
-                        "last_commit": "2026-10-31T15:15:20Z",
+                        "last_commit": "2026-11-01T13:09:46Z",
                         "open_issues": 0,
                         "owner": "GHilmarG",
                         "repo": "UaSource",
@@ -897,8 +897,8 @@
                     "id": 193000761,
                     "language": "Python",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-10-26T02:25:21Z",
-                    "open_issues": 114,
+                    "last_commit": "2026-11-01T02:07:25Z",
+                    "open_issues": 115,
                     "owner": "icesat2py",
                     "repo": "icepyx",
                     "stars": 259,
@@ -1251,7 +1251,7 @@
                 "language": "Fortran",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-31T01:22:33Z",
-                "open_issues": 97,
+                "open_issues": 98,
                 "owner": "CICE-Consortium",
                 "repo": "CICE",
                 "stars": 79,
@@ -1479,7 +1479,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T19:25:23.964Z",
+    "last_updated": "2026-11-01T19:50:25.804Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a link list with awesome data, models, and tools around the cryosphere.",
