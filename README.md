@@ -78,7 +78,7 @@ A prototype of a curated list of awesome data sources, models, tools and organiz
 
 ##### Ice Flow and Mass Balance
 
-* [Elmer/Ice](https://github.com/elmercsc/elmerfem) ⭐ 1,769 | 🐛 93 | 🌐 Fortran | 📅 2026-11-10 - Open Source Finite Element Software for Ice Sheet, Glaciers and Ice Flow Modelling
+* [Elmer/Ice](https://github.com/elmercsc/elmerfem) ⭐ 1,770 | 🐛 93 | 🌐 Fortran | 📅 2026-11-11 - Open Source Finite Element Software for Ice Sheet, Glaciers and Ice Flow Modelling
 * [icepack](https://github.com/icepack/icepack) ⭐ 101 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2026-10-05 - Finite element modeling of glaciers and ice sheets
 * [PyGEM](https://github.com/drounce/PyGEM) ⭐ 67 | 🐛 14 | 🌐 Python | 📅 2026-05-21 - Python Glacier Evolution Model (PyGEM)
 * [ALPGM](https://github.com/JordiBolibar/ALPGM) ⭐ 45 | 🐛 3 | 🌐 Python | 📅 2024-11-06 - ALpine Parameterized Glacier Model. Deep learning-based regional glacier evolution model ([p](https://tc.copernicus.org/articles/14/565/2020/tc-14-565-2020.html))
@@ -88,9 +88,9 @@ A prototype of a curated list of awesome data sources, models, tools and organiz
 * [glacier-flow-model](https://github.com/munterfinger/glacier-flow-model) ⭐ 22 | 🐛 7 | 🌐 Python | 📅 2025-12-06 - Modelling glacier flow, based on the glaciers mass balance and a digital elevation model
 * [Yelmo](https://github.com/palma-ice/yelmo) ⭐ 19 | 🐛 4 | 🌐 Fortran | 📅 2026-10-05 - a 3D ice-sheet-shelf model solving for the coupled dynamics and thermodynamics of the ice sheet system ([p](https://doi.org/10.5194/gmd-2019-273))
 * [ICESHEET](https://github.com/evangowan/icesheet) ⭐ 9 | 🐛 0 | 🌐 Roff | 📅 2022-06-23 - Creates ice sheet reconstructions using a perfectly plastic approximation, using ice margins and basal shear stress as inputs
+* [Fenics Ice](https://github.com/EdiGlacUQ/fenics_ice) ⭐ 7 | 🐛 12 | 🌐 Python | 📅 2025-01-08 - Ice Sheet model with Bayesian Uncertainty Quantification ([p](https://doi.org/10.5194/gmd-2021-90)).
 * [icetools](https://github.com/alexjarosch/icetools) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2019-05-23 - icetools provides a development environment for numerical ice flow models/simulations
 * [sia-fluxlim](https://github.com/alexjarosch/sia-fluxlim) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2019-11-09 - Implementation of a MUSCL-superbee flux limiter to a shallow ice approximation flow code based on finite differences
-* [Fenics Ice](https://github.com/EdiGlacUQ/fenics_ice) ⭐ 6 | 🐛 12 | 🌐 Python | 📅 2025-01-08 - Ice Sheet model with Bayesian Uncertainty Quantification ([p](https://doi.org/10.5194/gmd-2021-90)).
 * [flowline-glacier-model](https://github.com/aaschwanden/flowline-glacier-model) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2022-06-14 - Flowline glacier model by Andy Aschwanden
 * [VarGlaS](https://github.com/douglas-brinkerhoff/VarGlaS) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2016-01-23 - The source code repository for the Variational Glacier Simulator (VarGlaS) code ([p](https://doi.org/10.5194/tc-7-1161-2013))
 * [DEISM ice-sheet-model](https://github.com/cpk26/ice-sheet-model) ⭐ 1 | 🐛 0 | 🌐 MATLAB | 📅 2019-02-19 - DEpth integrated Ice Sheet Model (DEISM)
@@ -265,4 +265,4 @@ Thanks for your suggestions!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
