@@ -120,11 +120,11 @@
                         "id": 16771087,
                         "language": "Fortran",
                         "license": "NOASSERTION",
-                        "last_commit": "2026-11-12T13:48:46Z",
-                        "open_issues": 95,
+                        "last_commit": "2026-11-13T18:50:34Z",
+                        "open_issues": 96,
                         "owner": "ElmerCSC",
                         "repo": "elmerfem",
-                        "stars": 1771,
+                        "stars": 1774,
                         "topics": [
                           "acoustics",
                           "electromagnetics",
@@ -1250,8 +1250,8 @@
                 "id": 92321545,
                 "language": "Fortran",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-06T19:03:06Z",
-                "open_issues": 100,
+                "last_commit": "2026-11-12T22:13:15Z",
+                "open_issues": 101,
                 "owner": "CICE-Consortium",
                 "repo": "CICE",
                 "stars": 79,
@@ -1380,7 +1380,7 @@
                 "open_issues": 26,
                 "owner": "openamundsen",
                 "repo": "openamundsen",
-                "stars": 34,
+                "stars": 35,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:03:03.574Z"
@@ -1479,7 +1479,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T21:52:34.399Z",
+    "last_updated": "2026-11-13T21:28:41.223Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a link list with awesome data, models, and tools around the cryosphere.",
@@ -1491,7 +1491,7 @@
       "open_issues": 0,
       "owner": "awesome-cryosphere",
       "repo": "cryosphere-links",
-      "stars": 97,
+      "stars": 98,
       "topics": [
         "awesome-list",
         "cryosphere",
