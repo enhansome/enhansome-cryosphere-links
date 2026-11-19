@@ -42,7 +42,7 @@ A prototype of a curated list of awesome data sources, models, tools and organiz
 
 ### Cryo Software
 
-* [xDEM](https://github.com/GlacioHack/xdem) ⭐ 220 | 🐛 125 | 🌐 Python | 📅 2026-11-08 - A Python module developed by glaciologists for handling DEMs: read/write, coregistration, volume change calculation etc.
+* [xDEM](https://github.com/GlacioHack/xdem) ⭐ 221 | 🐛 125 | 🌐 Python | 📅 2026-11-08 - A Python module developed by glaciologists for handling DEMs: read/write, coregistration, volume change calculation etc.
 * [earthspy](https://github.com/AdrienWehrle/earthspy) ⭐ 71 | 🐛 9 | 🌐 Python | 📅 2026-07-20 - Monitor and study any place on Earth and in Near Real-Time (NRT) with satellite data
 * [PolarToolkit](https://polartoolkit.rtfd.io/) - A Python package to download, plot, and explore polar datasets.
 
@@ -78,12 +78,12 @@ A prototype of a curated list of awesome data sources, models, tools and organiz
 
 ##### Ice Flow and Mass Balance
 
-* [Elmer/Ice](https://github.com/elmercsc/elmerfem) ⭐ 1,781 | 🐛 98 | 🌐 Fortran | 📅 2026-11-18 - Open Source Finite Element Software for Ice Sheet, Glaciers and Ice Flow Modelling
+* [Elmer/Ice](https://github.com/elmercsc/elmerfem) ⭐ 1,781 | 🐛 95 | 🌐 Fortran | 📅 2026-11-19 - Open Source Finite Element Software for Ice Sheet, Glaciers and Ice Flow Modelling
 * [icepack](https://github.com/icepack/icepack) ⭐ 101 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2026-10-05 - Finite element modeling of glaciers and ice sheets
 * [PyGEM](https://github.com/drounce/PyGEM) ⭐ 67 | 🐛 14 | 🌐 Python | 📅 2026-05-21 - Python Glacier Evolution Model (PyGEM)
 * [ALPGM](https://github.com/JordiBolibar/ALPGM) ⭐ 45 | 🐛 3 | 🌐 Python | 📅 2024-11-06 - ALpine Parameterized Glacier Model. Deep learning-based regional glacier evolution model ([p](https://tc.copernicus.org/articles/14/565/2020/tc-14-565-2020.html))
-* [CFM](https://github.com/UWGlaciology/CommunityFirnModel) ⭐ 38 | 🐛 2 | 🌐 Python | 📅 2026-11-03 - Community Firn Model ([p](https://gmd.copernicus.org/articles/13/4355/2020/gmd-13-4355-2020.html))
-* [Úa](https://github.com/GHilmarG/UaSource) ⭐ 26 | 🐛 0 | 🌐 MATLAB | 📅 2026-11-17 - A large-scale ice-flow model
+* [CFM](https://github.com/UWGlaciology/CommunityFirnModel) ⭐ 38 | 🐛 2 | 🌐 Python | 📅 2026-11-19 - Community Firn Model ([p](https://gmd.copernicus.org/articles/13/4355/2020/gmd-13-4355-2020.html))
+* [Úa](https://github.com/GHilmarG/UaSource) ⭐ 26 | 🐛 0 | 🌐 MATLAB | 📅 2026-11-19 - A large-scale ice-flow model
 * [CISM](https://github.com/CISM/cism) ⭐ 22 | 🐛 0 | 🌐 Fortran | 📅 2018-07-08 - Community Ice Sheet Model ([p](https://doi.org/10.1029/2008JF001015))
 * [glacier-flow-model](https://github.com/munterfinger/glacier-flow-model) ⭐ 22 | 🐛 7 | 🌐 Python | 📅 2025-12-06 - Modelling glacier flow, based on the glaciers mass balance and a digital elevation model
 * [Yelmo](https://github.com/palma-ice/yelmo) ⭐ 19 | 🐛 4 | 🌐 Fortran | 📅 2026-10-05 - a 3D ice-sheet-shelf model solving for the coupled dynamics and thermodynamics of the ice sheet system ([p](https://doi.org/10.5194/gmd-2019-273))
@@ -202,7 +202,7 @@ A prototype of a curated list of awesome data sources, models, tools and organiz
 
 * [Glacier & Ice Sheet Dynamics at Georgia Tech](https://github.com/nsidc/NSIDC-Data-Tutorials) ⭐ 109 | 🐛 17 | 🌐 Jupyter Notebook | 📅 2026-08-26 - Alex Robel's slides, notes, and code demonstrations for grad/undergrad course in glaciology
 * [glacier-graphics](https://github.com/OGGM/glacier-graphics) ⭐ 15 | 🐛 1 | 📅 2022-01-20 - A collection of glacier graphics that can be used for education and outreach
-* [Ed Bueler's Karthaus material](https://github.com/bueler/karthaus) ⭐ 8 | 🐛 0 | 🌐 TeX | 📅 2019-04-01 - Notes and codes for Ed Bueler's numerical lectures at Karthaus (Italy) Summer School on Ice Sheets and Glaciers
+* [Ed Bueler's Karthaus material](https://github.com/bueler/karthaus) ⭐ 9 | 🐛 0 | 🌐 TeX | 📅 2019-04-01 - Notes and codes for Ed Bueler's numerical lectures at Karthaus (Italy) Summer School on Ice Sheets and Glaciers
 * [js-ism](https://github.com/mewo2/js-ism) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2016-02-15 - Reimplementation of GRANTISM in Javascript
 * [Lindsey Nicholson's teaching](https://github.com/linznicholson/teaching) ⭐ 3 | 🐛 0 | 📅 2023-05-22 - Materials Lindsey developed for teaching (mainly) about glaciers
 * [Glaciers Dynamics Lecture](https://github.com/aaschwanden/glaciers617) ⭐ 1 | 🐛 0 | 📅 2011-10-11 - Glacier Dynamics lecture by Andy Aschwanden
@@ -265,4 +265,4 @@ Thanks for your suggestions!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._

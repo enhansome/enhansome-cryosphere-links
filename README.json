@@ -21,7 +21,7 @@
                 "open_issues": 125,
                 "owner": "GlacioHack",
                 "repo": "xdem",
-                "stars": 220,
+                "stars": 221,
                 "topics": [
                   "coregistration",
                   "dem",
@@ -120,8 +120,8 @@
                         "id": 16771087,
                         "language": "Fortran",
                         "license": "NOASSERTION",
-                        "last_commit": "2026-11-18T13:00:05Z",
-                        "open_issues": 98,
+                        "last_commit": "2026-11-19T16:50:55Z",
+                        "open_issues": 95,
                         "owner": "ElmerCSC",
                         "repo": "elmerfem",
                         "stars": 1781,
@@ -228,7 +228,7 @@
                         "id": 14030315,
                         "language": "Python",
                         "license": "MIT",
-                        "last_commit": "2026-11-03T19:34:42Z",
+                        "last_commit": "2026-11-19T01:22:02Z",
                         "open_issues": 2,
                         "owner": "UWGlaciology",
                         "repo": "CommunityFirnModel",
@@ -249,7 +249,7 @@
                         "id": 37473492,
                         "language": "MATLAB",
                         "license": null,
-                        "last_commit": "2026-11-17T21:16:35Z",
+                        "last_commit": "2026-11-19T15:50:57Z",
                         "open_issues": 0,
                         "owner": "GHilmarG",
                         "repo": "UaSource",
@@ -1066,7 +1066,7 @@
                 "open_issues": 0,
                 "owner": "bueler",
                 "repo": "karthaus",
-                "stars": 8,
+                "stars": 9,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:03:03.574Z"
@@ -1479,7 +1479,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T22:39:04.172Z",
+    "last_updated": "2026-11-19T22:42:27.854Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a link list with awesome data, models, and tools around the cryosphere.",
