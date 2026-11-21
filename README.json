@@ -18,7 +18,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-08T04:15:34Z",
-                "open_issues": 125,
+                "open_issues": 126,
                 "owner": "GlacioHack",
                 "repo": "xdem",
                 "stars": 221,
@@ -120,11 +120,11 @@
                         "id": 16771087,
                         "language": "Fortran",
                         "license": "NOASSERTION",
-                        "last_commit": "2026-11-20T17:11:07Z",
+                        "last_commit": "2026-11-21T14:24:00Z",
                         "open_issues": 98,
                         "owner": "ElmerCSC",
                         "repo": "elmerfem",
-                        "stars": 1784,
+                        "stars": 1785,
                         "topics": [
                           "acoustics",
                           "electromagnetics",
@@ -249,7 +249,7 @@
                         "id": 37473492,
                         "language": "MATLAB",
                         "license": null,
-                        "last_commit": "2026-11-20T22:01:47Z",
+                        "last_commit": "2026-11-21T18:06:42Z",
                         "open_issues": 0,
                         "owner": "GHilmarG",
                         "repo": "UaSource",
@@ -1479,7 +1479,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T22:16:55.240Z",
+    "last_updated": "2026-11-21T20:58:02.687Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a link list with awesome data, models, and tools around the cryosphere.",
