@@ -120,7 +120,7 @@
                         "id": 16771087,
                         "language": "Fortran",
                         "license": "NOASSERTION",
-                        "last_commit": "2026-11-21T14:24:00Z",
+                        "last_commit": "2026-11-22T10:55:40Z",
                         "open_issues": 98,
                         "owner": "ElmerCSC",
                         "repo": "elmerfem",
@@ -1479,7 +1479,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T20:58:02.687Z",
+    "last_updated": "2026-11-22T21:08:01.213Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a link list with awesome data, models, and tools around the cryosphere.",
