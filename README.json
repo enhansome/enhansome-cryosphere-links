@@ -120,8 +120,8 @@
                         "id": 16771087,
                         "language": "Fortran",
                         "license": "NOASSERTION",
-                        "last_commit": "2026-11-24T16:55:49Z",
-                        "open_issues": 99,
+                        "last_commit": "2026-11-25T13:59:15Z",
+                        "open_issues": 97,
                         "owner": "ElmerCSC",
                         "repo": "elmerfem",
                         "stars": 1789,
@@ -157,7 +157,7 @@
                         "id": 45697304,
                         "language": "Jupyter Notebook",
                         "license": "GPL-3.0",
-                        "last_commit": "2026-10-05T23:52:13Z",
+                        "last_commit": "2026-11-25T16:37:38Z",
                         "open_issues": 7,
                         "owner": "icepack",
                         "repo": "icepack",
@@ -249,7 +249,7 @@
                         "id": 37473492,
                         "language": "MATLAB",
                         "license": null,
-                        "last_commit": "2026-11-24T18:47:57Z",
+                        "last_commit": "2026-11-25T09:07:12Z",
                         "open_issues": 0,
                         "owner": "GHilmarG",
                         "repo": "UaSource",
@@ -901,7 +901,7 @@
                     "open_issues": 116,
                     "owner": "icesat2py",
                     "repo": "icepyx",
-                    "stars": 259,
+                    "stars": 260,
                     "topics": [
                       "closember",
                       "community-driven",
@@ -1479,7 +1479,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T23:58:54.190Z",
+    "last_updated": "2026-11-25T23:42:40.090Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a link list with awesome data, models, and tools around the cryosphere.",
