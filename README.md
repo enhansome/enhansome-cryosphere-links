@@ -42,7 +42,7 @@ A prototype of a curated list of awesome data sources, models, tools and organiz
 
 ### Cryo Software
 
-* [xDEM](https://github.com/GlacioHack/xdem) ⭐ 222 | 🐛 127 | 🌐 Python | 📅 2026-11-23 - A Python module developed by glaciologists for handling DEMs: read/write, coregistration, volume change calculation etc.
+* [xDEM](https://github.com/GlacioHack/xdem) ⭐ 222 | 🐛 128 | 🌐 Python | 📅 2026-11-23 - A Python module developed by glaciologists for handling DEMs: read/write, coregistration, volume change calculation etc.
 * [earthspy](https://github.com/AdrienWehrle/earthspy) ⭐ 71 | 🐛 9 | 🌐 Python | 📅 2026-07-20 - Monitor and study any place on Earth and in Near Real-Time (NRT) with satellite data
 * [PolarToolkit](https://polartoolkit.rtfd.io/) - A Python package to download, plot, and explore polar datasets.
 
@@ -78,7 +78,7 @@ A prototype of a curated list of awesome data sources, models, tools and organiz
 
 ##### Ice Flow and Mass Balance
 
-* [Elmer/Ice](https://github.com/elmercsc/elmerfem) ⭐ 1,789 | 🐛 97 | 🌐 Fortran | 📅 2026-11-25 - Open Source Finite Element Software for Ice Sheet, Glaciers and Ice Flow Modelling
+* [Elmer/Ice](https://github.com/elmercsc/elmerfem) ⭐ 1,790 | 🐛 100 | 🌐 Fortran | 📅 2026-11-26 - Open Source Finite Element Software for Ice Sheet, Glaciers and Ice Flow Modelling
 * [icepack](https://github.com/icepack/icepack) ⭐ 101 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2026-11-25 - Finite element modeling of glaciers and ice sheets
 * [PyGEM](https://github.com/drounce/PyGEM) ⭐ 67 | 🐛 14 | 🌐 Python | 📅 2026-05-21 - Python Glacier Evolution Model (PyGEM)
 * [ALPGM](https://github.com/JordiBolibar/ALPGM) ⭐ 45 | 🐛 3 | 🌐 Python | 📅 2024-11-06 - ALpine Parameterized Glacier Model. Deep learning-based regional glacier evolution model ([p](https://tc.copernicus.org/articles/14/565/2020/tc-14-565-2020.html))
@@ -106,7 +106,7 @@ A prototype of a curated list of awesome data sources, models, tools and organiz
 
 ##### (Surface) Mass Balance only
 
-* [COSIPY](https://github.com/cryotools/cosipy) ⭐ 62 | 🐛 38 | 🌐 Python | 📅 2026-04-29 -  A flexible and user-friendly framework for modeling distributed snow and glacier mass changes ([p](https://doi.org/10.5194/gmd-13-5645-2020))
+* [COSIPY](https://github.com/cryotools/cosipy) ⭐ 63 | 🐛 38 | 🌐 Python | 📅 2026-04-29 -  A flexible and user-friendly framework for modeling distributed snow and glacier mass changes ([p](https://doi.org/10.5194/gmd-13-5645-2020))
 * [pypdd](https://github.com/juseg/pypdd) ⭐ 21 | 🐛 2 | 🌐 Python | 📅 2023-05-02 - A positive degree day model for glacier surface mass balance ([p](http://doi.org/10.3189/2013JoG13J081))
 * [MAR](https://mar.cnrs.fr/) -  A regional climate model for modelling surface mass balance ([p](http://journals.ametsoc.org/doi/abs/10.1175/1520-0493\(1994\)122%3C0671:DOATDM%3E2.0.CO;2))
 
@@ -234,7 +234,7 @@ A prototype of a curated list of awesome data sources, models, tools and organiz
 ### SN Software
 
 * [SMRT](https://github.com/smrt-model/smrt) ⭐ 70 | 🐛 12 | 🌐 Python | 📅 2026-11-23 - Snow Microwave Radiative Transfer model to calculate scattering of microwave radiation in snow ([p](https://doi.org/10.5194/gmd-11-2763-2018))
-* [cosipy](https://github.com/cryotools/cosipy) ⭐ 62 | 🐛 38 | 🌐 Python | 📅 2026-04-29 - Coupled snowpack and ice surface energy and mass balance model in Python
+* [cosipy](https://github.com/cryotools/cosipy) ⭐ 63 | 🐛 38 | 🌐 Python | 📅 2026-04-29 - Coupled snowpack and ice surface energy and mass balance model in Python
 * [openAMUNDSEN](https://github.com/openamundsen/openamundsen) ⭐ 35 | 🐛 26 | 🌐 Python | 📅 2026-10-20 - Modular snow and hydroclimatological modeling framework
 * [FSM2](https://github.com/RichardEssery/FSM2) ⭐ 33 | 🐛 4 | 🌐 Fortran | 📅 2026-04-22 - Flexible Snow Model: a multi-physics energy balance model of accumulation and melt of snow on the ground and in forest canopies ([p](http://www.geosci-model-dev.net/8/3867/2015/))
 * [TARTES](https://github.com/ghislainp/tartes) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2025-07-22 - Two-stream radiative transfer in Snow model, also available as a [webapp](http://snowtartes.pythonanywhere.com/)
@@ -265,4 +265,4 @@ Thanks for your suggestions!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
